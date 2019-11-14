@@ -1,13 +1,27 @@
 import os
 import time
 projects_dir = "../repos/repos2"
-jars_dir = "../2_exp_result/project_jars"
-csv_dir = "../2_exp_result/method_info"
-txt_dir ="../2_exp_result/callgraph_info"
-log_dir = "../2_exp_result/log"
+exp_time = "2"
 
-jdt_dir = "../java_jars/jdt-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
-javacg_dir = "../java_jars/javacg-0.1-SNAPSHOT-static.jar"
+result_dir = "/root/result/"+ exp_time +"_exp_result"
+jars_dir = "/root/result/"+ exp_time +"_exp_result/project_jars"
+csv_dir = "/root/result"+ exp_time +"_exp_result/method_info"
+txt_dir ="/root/result"+ exp_time +"_exp_result/callgraph_info"
+log_dir = "/root/result"+ exp_time +"_exp_result/log"
+
+if not os.path.exists(result_dir):
+    os.mkdir(result_dir)
+if not os.path.exists(jars_dir):
+    os.mkdir(jars_dir)
+if not os.path.exists(csv_dir):
+    os.mkdir(csv_dir)
+if not os.path.exists(txt_dir):
+    os.mkdir(txt_dir)
+if not os.path.exists(log_dir):
+    os.mkdir(log_dir)
+
+jdt_dir = "/root/java_jars/jdt-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
+javacg_dir = "/root/java_jars/javacg-0.1-SNAPSHOT-static.jar"
 
 def is_legal_jar(jar_name):
     illegal_str = ["source", "javadoc", "example", "test", "dependencies"]
@@ -15,6 +29,8 @@ def is_legal_jar(jar_name):
         if str in jar_name:
             return False
     return True
+
+os.system("script " + os.path.join(log_dir, "log.log") )
 analyzed_count = 0
 projects_count = len(os.listdir(projects_dir))
 start = time.clock()
@@ -39,20 +55,27 @@ for project_name in os.listdir(projects_dir):
             os.mkdir(new_csv_path)
         if not os.path.exists(new_txt_path):
             os.mkdir(new_txt_path)
-        print("extracting method info for", project_name, "PROJECT NO:", analyzed_count)
+        print(">>>>Project No:", analyzed_count)
+        print(">>>>extracting infomation for", project_name)
+        
+        #extract method infomation
         os.system("java -jar "+ jdt_dir + " " + project_dir)
-        os.system("mv "+ project_name + "_javadoc.csv " + new_csv_path)
-        print ("mv "+ project_name + "_javadoc.csv " + new_csv_path)
+        csv_file = [file for file in os.listdir(os.getcwd()) if file.endswith('.csv')][0]
+        os.system("mv " + csv_file + " " + new_csv_path)
+        
+        #extract callgraph infomation
         for jar in jars:
-            print("cp " + file + " to jars dir" )
             os.system("cp " + jar + " " + new_jar_path)
-            print("extracting callgraph info for" + jar.split('/')[-1] + "*********")
+            print(">>>>extracting callgraph info for" + jar.split('/')[-1] + "*********")
             os.system("java -jar " + javacg_dir + " " + jar + " > " + os.path.join(new_txt_path, jar.split('/')[-1] + ".txt"))
-            print("extracting callgraph infomation done.")
+        print(">>>>extracting callgraph infomation done.")
     else:
         missed_projects.append(project_name)
+    
     print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     print("")
+
+
 end = time.clock()
 print("===============================")
 print("all projects count:", projects_count)
