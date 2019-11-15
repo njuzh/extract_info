@@ -1,9 +1,10 @@
 import os
 import time
-projects_dir = "../repos/repos1"
-exp_time = "1"
-
+import re
 start = time.time()
+
+exp_time = "1"
+projects_dir = "../repos/repos"+exp_time
 result_dir = "/root/result/"+ exp_time +"_exp_result"
 jars_dir = "/root/result/"+ exp_time +"_exp_result/project_jars"
 csv_dir = "/root/result/"+ exp_time +"_exp_result/method_info"
@@ -24,11 +25,20 @@ if not os.path.exists(log_dir):
 jdt_dir = "/root/java_jars/jdt-0.0.1-SNAPSHOT-jar-with-dependencies.jar"
 javacg_dir = "/root/java_jars/javacg-0.1-SNAPSHOT-static.jar"
 
-def is_legal_jar(jar_name):
-    illegal_str = ["source", "javadoc", "example", "test", "dependencies"]
-    for str in illegal_str:
-        if str in jar_name:
+def is_legal_jar(file_name, project_name):
+    if not file_name.endswith(".jar"):
+        return False
+
+    illegal_strs= ["source", "javadoc", "example", "test", "dependencies", "orginal"]
+    for illegal_str in illegal_strs:
+        if illegal_str in file_name:
             return False
+
+    file_name_str = ''.join(re.findall(r'[a-zA-Z0-9]', file_name)).lower()
+    project_name_str =  ''.join(re.findall(r'[a-zA-Z0-9]', project_name)).lower()
+    if not project_name_str in file_name_str: 
+        return False
+    
     return True
 
 #os.system("script " + os.path.join(log_dir, "log.log") )
@@ -45,7 +55,7 @@ for project_name in os.listdir(projects_dir):
     jars = []
     for root, dir, files in os.walk(project_dir):
         for file in files:
-            if file.endswith(".jar")  and is_legal_jar(file):
+            if is_legal_jar(file, project_name):
                 file_dir = os.path.join(root, file)
                 jars.append(file_dir)
     if len(jars)!=0:
@@ -65,9 +75,11 @@ for project_name in os.listdir(projects_dir):
         os.system("mv " + csv_file + " " + new_csv_path)
         
         #extract callgraph infomation
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+        print(">>>>extracting callgraph infomation of", len(jars), "jars")
         for jar in jars:
             os.system("cp " + jar + " " + new_jar_path)
-            print(">>>>extracting callgraph info for" + jar.split('/')[-1] + "*********")
+            print(">>>>extracting callgraph info for " + jar.split('/')[-1])
             os.system("java -jar " + javacg_dir + " " + jar + " > " + os.path.join(new_txt_path, jar.split('/')[-1] + ".txt"))
         print(">>>>extracting callgraph infomation done.")
     else:
