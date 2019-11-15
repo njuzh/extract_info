@@ -1,13 +1,14 @@
 import os
 import time
-projects_dir = "../repos/repos2"
-exp_time = "2"
+projects_dir = "../repos/repos1"
+exp_time = "1"
 
+start = time.time()
 result_dir = "/root/result/"+ exp_time +"_exp_result"
 jars_dir = "/root/result/"+ exp_time +"_exp_result/project_jars"
-csv_dir = "/root/result"+ exp_time +"_exp_result/method_info"
-txt_dir ="/root/result"+ exp_time +"_exp_result/callgraph_info"
-log_dir = "/root/result"+ exp_time +"_exp_result/log"
+csv_dir = "/root/result/"+ exp_time +"_exp_result/method_info"
+txt_dir ="/root/result/"+ exp_time +"_exp_result/callgraph_info"
+log_dir = "/root/result/"+ exp_time +"_exp_result/log"
 
 if not os.path.exists(result_dir):
     os.mkdir(result_dir)
@@ -30,10 +31,10 @@ def is_legal_jar(jar_name):
             return False
     return True
 
-os.system("script " + os.path.join(log_dir, "log.log") )
+#os.system("script " + os.path.join(log_dir, "log.log") )
 analyzed_count = 0
 projects_count = len(os.listdir(projects_dir))
-start = time.clock()
+
 missed_projects = []
 for project_name in os.listdir(projects_dir):
     project_dir = os.path.join(projects_dir, project_name)
@@ -56,7 +57,7 @@ for project_name in os.listdir(projects_dir):
         if not os.path.exists(new_txt_path):
             os.mkdir(new_txt_path)
         print(">>>>Project No:", analyzed_count)
-        print(">>>>extracting infomation for", project_name)
+        print(">>>>extracting infomation for ", project_name)
         
         #extract method infomation
         os.system("java -jar "+ jdt_dir + " " + project_dir)
@@ -76,11 +77,11 @@ for project_name in os.listdir(projects_dir):
     print("")
 
 
-end = time.clock()
+end = time.time()
 print("===============================")
 print("all projects count:", projects_count)
 print("analyzed projects count:", analyzed_count)
 if projects_count != analyzed_count:
     print("missed projects:", str(missed_projects))
-print("all time used:", end - start)
+print("all time used:", end - start, "s")
 print("===============================")
