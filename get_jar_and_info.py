@@ -3,8 +3,9 @@ import time
 import re
 start = time.time()
 
-exp_time = "_man"
+exp_time = "_test"
 projects_dir = "/root/repos/repos"+exp_time
+missed_projects_dir = "/root/repos/repos_man"
 result_dir = "/root/git/result/"+ exp_time +"_exp_result"
 jars_dir = "/root/project_jars"
 csv_dir = "/root/git/result/"+ exp_time +"_exp_result/method_info"
@@ -85,7 +86,7 @@ for project_name in os.listdir(projects_dir):
         print(">>>>extracting callgraph infomation done.")
     else:
         missed_projects.append(project_name)
-    
+        os.system("mv " + project_dir + " " + missed_projects_dir)
     print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     print("")
 
