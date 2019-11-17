@@ -4,7 +4,7 @@ import re
 
 start = time.time()
 
-exp_time = "_test"
+exp_time = "3"
 projects_dir = "/root/repos/repos"+exp_time
 
 all_projects_count = len(os.listdir(projects_dir))
@@ -14,13 +14,13 @@ analyzed_projects = []
 for project_name in os.listdir(projects_dir):
     project_dir = os.path.join(projects_dir, project_name)
     if not "pom.xml" in os.listdir(project_dir):
-        os.system("rm -r " + project_dir)
         delete_projects.append(project_name)
+        os.system("rm -r " + project_dir)
     else:
         mvn_projects_count += 1
         analyzed_projects.append(project_name)
         print(">>>>>>>>>>>>>>>>>>>>>>>>>>mvn package",project_name+">>>>>>>>>>>>>>")
-        os.system("mvn package -DskipTests") 
+        os.system("cd " +project_dir + "; mvn package -DskipTests") 
 end = time.time()
 print("=================================")
 print("all projects count:", all_projects_count)

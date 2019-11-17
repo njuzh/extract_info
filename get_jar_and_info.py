@@ -3,7 +3,7 @@ import time
 import re
 start = time.time()
 
-exp_time = "_test"
+exp_time = "2"
 projects_dir = "/root/repos/repos"+exp_time
 missed_projects_dir = "/root/repos/repos_man"
 result_dir = "/root/git/result/"+ exp_time +"_exp_result"
