@@ -5,3 +5,25 @@ all projects count:17
 analyzed projects count: 17
 all time used: 476.8671841621399s
 ===============================
+===============================
+experiment NO: 4
+experiment time: Mon Nov 18 09:43:13 2019
+all projects count:25
+analyzed projects count: 14
+missed projects: ['Twitter4J', 'drools', 'quarkus', 'h2o-2', 'light-task-scheduler', 'incubator-pinot', 'light-4j', 'kylin', 'javaee7-samples', 'vertx-examples', 'pmd']
+all time used: 345.07624316215515s
+===============================
+===============================
+experiment NO: 4
+experiment time: Mon Nov 18 09:50:42 2019
+all projects count:14
+analyzed projects count: 14
+all time used: 940.0395565032959s
+===============================
+===============================
+experiment NO: 4
+experiment time: Mon Nov 18 10:11:46 2019
+all projects count:14
+analyzed projects count: 14
+all time used: 337.9086892604828s
+===============================
