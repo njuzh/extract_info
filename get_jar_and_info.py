@@ -105,11 +105,11 @@ print("===============================")
 
 with open(os.path.join(jars_count_dir, "log_method_jars.txt"), "a+") as f:
     f.write("===============================\n")
-    f.write("experiment NO:", exp_time + "\n")
-    f.write("experiment time:", localtime + "\n")
-    f.write("all projects count:", projects_count + "\n")
-    f.write("analyzed projects count:", analyzed_project_count + "\n")
+    f.write("experiment NO: " + exp_time + "\n")
+    f.write("experiment time: " + str(localtime) + "\n")
+    f.write("all projects count:" + str(projects_count) + "\n")
+    f.write("analyzed projects count: " + str(analyzed_project_count) + "\n")
     if projects_count != analyzed_project_count:
-        f.write("missed projects:", str(missed_projects) + "\n")
-    f.write("all time used:", end - start, "s\n" )
+        f.write("missed projects: " +  str(missed_projects) + "\n")
+    f.write("all time used: " +  str(end - start) +  "s\n" )
     f.write("===============================\n")
