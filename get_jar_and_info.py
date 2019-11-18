@@ -3,19 +3,20 @@ import time
 import re
 start = time.time()
 
-exp_time = "2"
+exp_time = "3"
+localtime = time.asctime( time.localtime(time.time()) )
 projects_dir = "/root/repos/repos"+exp_time
 missed_projects_dir = "/root/repos/repos_man"
 result_dir = "/root/git/result/"+ exp_time +"_exp_result"
-jars_dir = "/root/project_jars"
+#jars_dir = "/root/project_jars"
 csv_dir = "/root/git/result/"+ exp_time +"_exp_result/method_info"
 txt_dir ="/root/git/result/"+ exp_time +"_exp_result/callgraph_info"
 log_dir = "/root/git/result/"+ exp_time +"_exp_result/log"
-
+jars_count_dir = "/root/git/extract_code"
 if not os.path.exists(result_dir):
     os.mkdir(result_dir)
-if not os.path.exists(jars_dir):
-    os.mkdir(jars_dir)
+# if not os.path.exists(jars_dir):
+#     os.mkdir(jars_dir)
 if not os.path.exists(csv_dir):
     os.mkdir(csv_dir)
 if not os.path.exists(txt_dir):
@@ -49,7 +50,7 @@ analyzed_jar_count = 0
 missed_projects = []
 for project_name in os.listdir(projects_dir):
     project_dir = os.path.join(projects_dir, project_name)
-    new_jar_path = os.path.join(jars_dir, project_name)
+    #new_jar_path = os.path.join(jars_dir, project_name)
     new_csv_path = os.path.join(csv_dir, project_name)
     new_txt_path = os.path.join(txt_dir, project_name)
     
@@ -62,8 +63,8 @@ for project_name in os.listdir(projects_dir):
     if len(jars)!=0:
         analyzed_project_count += 1
         analyzed_jar_count += len(jars)
-        if not os.path.exists(new_jar_path):
-            os.mkdir(new_jar_path)
+        # if not os.path.exists(new_jar_path):
+        #     os.mkdir(new_jar_path)
         if not os.path.exists(new_csv_path):
             os.mkdir(new_csv_path)
         if not os.path.exists(new_txt_path):
@@ -80,7 +81,7 @@ for project_name in os.listdir(projects_dir):
         print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
         print(">>>>extracting callgraph infomation of", len(jars), "jars")
         for jar in jars:
-            os.system("cp " + jar + " " + new_jar_path)
+            #os.system("cp " + jar + " " + new_jar_path)
             print(">>>>extracting callgraph info for " + jar.split('/')[-1])
             os.system("java -jar " + javacg_dir + " " + jar + " > " + os.path.join(new_txt_path, jar.split('/')[-1] + ".txt"))
         print(">>>>extracting callgraph infomation done.")
@@ -100,3 +101,15 @@ if projects_count != analyzed_project_count:
     print("missed projects:", str(missed_projects))
 print("all time used:", end - start, "s")
 print("===============================")
+
+
+with open(os.path.join(jars_count_dir, "log_method_jars.txt"), "a+") as f:
+    f.write("===============================\n")
+    f.write("experiment NO:", exp_time + "\n")
+    f.write("experiment time:", localtime + "\n")
+    f.write("all projects count:", projects_count + "\n")
+    f.write("analyzed projects count:", analyzed_project_count + "\n")
+    if projects_count != analyzed_project_count:
+        f.write("missed projects:", str(missed_projects) + "\n")
+    f.write("all time used:", end - start, "s\n" )
+    f.write("===============================\n")
