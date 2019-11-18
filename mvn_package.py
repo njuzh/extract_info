@@ -4,7 +4,7 @@ import re
 
 start = time.time()
 
-exp_time = "4"
+exp_time = "5"
 localtime = time.asctime( time.localtime(time.time()) )
 projects_dir = "/root/repos/repos"+exp_time
 mvn_log_dir  = "/root/git/extract_code/mvn_log"
@@ -37,7 +37,7 @@ with open(os.path.join(mvn_log_dir, "all_mvn_infomation.txt"), "a+") as f:
     f.write("experiment NO: " + exp_time + "\n")
     f.write("experiment time: " + str(localtime) + "\n")
     f.write("all projects count: " + str(all_projects_count) + "\n")
-    f.write("package projects count: " + mvn_projects_count)
+    f.write("package projects count: " + str(mvn_projects_count) + "\n")
     f.write("package projects: " + ' '.join(analyzed_projects) + "\n")
     f.write("delete no maven projects: " + ' '.join(delete_projects)+ "\n")
     f.write("all time used: " +  str(end - start) +  "s\n" )
