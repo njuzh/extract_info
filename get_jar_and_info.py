@@ -3,7 +3,7 @@ import time
 import re
 start = time.time()
 
-exp_time = "6"
+exp_time = "7"
 localtime = time.asctime( time.localtime(time.time()) )
 projects_dir = "/root/repos/repos"+exp_time
 missed_projects_dir = "/root/repos/repos_man"

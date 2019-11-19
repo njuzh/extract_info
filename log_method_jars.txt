@@ -43,3 +43,11 @@ analyzed projects count: 27
 missed projects: ['AxonFramework', 'speedment', 'commafeed', 'gremlin', 'dl4j-examples', 'logback']
 all time used: 446.61051297187805s
 ===============================
+===============================
+experiment NO: 7
+experiment time: Tue Nov 19 12:48:22 2019
+all projects count:22
+analyzed projects count: 20
+missed projects: ['brave', 'Gaffer']
+all time used: 1752.9004719257355s
+===============================
