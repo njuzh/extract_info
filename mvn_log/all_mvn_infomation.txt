@@ -2,3 +2,21 @@
 experiment NO: 5
 experiment time: Mon Nov 18 12:47:47 2019
 all projects count: 49
+===============================
+experiment NO: 6
+experiment time: Mon Nov 18 14:38:44 2019
+all projects count: 49
+package projects count: 33
+package projects: Chronicle-Map jitwatch unirest-java jacoco AxonFramework speedment maven DependencyCheck commafeed spring liquibase flume JSqlParser Chronicle-Queue truth oryx spring-cloud-gateway mahout atomix jetcache commons-lang gs-collections zalenium stampede jeromq bt awaitility Jest thymeleaf mapstruct gremlin dl4j-examples logback
+delete no maven projects: commons osmdroid react-native-fcm bitcoin-wallet jpexs-decompiler grakn swagger2markup micrometer ExoMedia android-database-sqlcipher YalpStore gnirehtet ballerina-lang xabber-android ratpack apollo-android
+all time used: 4428.125610113144s
+===============================
+===============================
+experiment NO: 7
+experiment time: Tue Nov 19 08:08:22 2019
+all projects count: 49
+package projects count: 27
+package projects: nifi initializr TelegramBots easy-rules webcam-capture Signal-Server framework tablesaw blynk-server heritrix3 jackson-core yacy_search_server helidon pac4j jmxtrans assertj-core dozer robovm brave activemq kairosdb Gaffer spring-data-jpa apollo maxwell exhibitor HdrHistogram
+delete no maven projects: Lightweight-Stream-API HMCL mongo-hadoop JavaHamcrest aws-cf-templates geode elasticsearch-hadoop stagemonitor platform_frameworks_support aws-doc-sdk-examples gitblit jOOL phimpme-android sshj syncany susi_server incubator-gobblin geoserver FBReaderJ groovy-core ics-openvpn jphp
+all time used: 5705.711672306061s
+===============================

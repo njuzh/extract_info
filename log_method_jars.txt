@@ -27,3 +27,19 @@ all projects count:14
 analyzed projects count: 14
 all time used: 337.9086892604828s
 ===============================
+===============================
+experiment NO: 5
+experiment time: Mon Nov 18 13:42:44 2019
+all projects count:18
+analyzed projects count: 13
+missed projects: ['cucumber-jvm', 'traccar', 'mp4parser', 'keywhiz', 'dddsample-core']
+all time used: 428.1035807132721s
+===============================
+===============================
+experiment NO: 6
+experiment time: Tue Nov 19 04:45:27 2019
+all projects count:33
+analyzed projects count: 27
+missed projects: ['AxonFramework', 'speedment', 'commafeed', 'gremlin', 'dl4j-examples', 'logback']
+all time used: 446.61051297187805s
+===============================

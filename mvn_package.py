@@ -4,7 +4,7 @@ import re
 
 start = time.time()
 
-exp_time = "5"
+exp_time = "7"
 localtime = time.asctime( time.localtime(time.time()) )
 projects_dir = "/root/repos/repos"+exp_time
 mvn_log_dir  = "/root/git/extract_code/mvn_log"
