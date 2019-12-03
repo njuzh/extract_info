@@ -1,0 +1,401 @@
+nohup: ignoring input
+>>>>extracting method info of bootique...
+>>>>writing to csv files...
+>>>>done.
+excute time:2824ms
+>>>>extracting method info of sqlite-jdbc...
+>>>>writing to csv files...
+>>>>done.
+excute time:2894ms
+>>>>extracting method info of drill...
+>>>>writing to csv files...
+>>>>done.
+excute time:55219ms
+>>>>extracting method info of ripme...
+>>>>writing to csv files...
+>>>>done.
+excute time:4141ms
+>>>>extracting method info of docker-client...
+>>>>writing to csv files...
+>>>>done.
+excute time:5397ms
+>>>>extracting method info of soot...
+>>>>writing to csv files...
+>>>>done.
+excute time:39945ms
+>>>>extracting method info of jdbi...
+>>>>writing to csv files...
+>>>>done.
+excute time:7958ms
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 1
+>>>>extracting infomation for  bootique
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for bootique-2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for bootique-docs-2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  sqlite-jdbc
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for sqlite-jdbc-3.28.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  drill
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 53 jars
+>>>>extracting callgraph info for drill-yarn-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-ltsv-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-syslog-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-opentsdb-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-excel-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-jdbc-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-hive-exec-shaded-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-hive-core-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-esri-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-udfs-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-kudu-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-mapr-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-mongo-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-hbase-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-kafka-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-metastore-api-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-iceberg-metastore-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-common-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-java-exec-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-jdbc-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-jdbc-all-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-memory-base-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-rpc-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-fmpp-maven-plugin-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-logical-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-java-exec-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-mongo-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-kudu-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-jdbc-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-shaded-guava-23.0.jar
+>>>>extracting callgraph info for drill-jdbc-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-syslog-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-ltsv-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-udfs-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-opentsdb-storage-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-hbase-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-metastore-api-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-memory-base-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-protocol-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-common-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-hive-core-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-iceberg-metastore-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-hive-exec-shaded-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-esri-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-storage-kafka-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-logical-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-rpc-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-format-excel-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for calcite-core-1.20.0-drill-r2.jar
+>>>>extracting callgraph info for calcite-linq4j-1.20.0-drill-r2.jar
+>>>>extracting callgraph info for drill-jdbc-all-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-yarn-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph info for drill-protocol-1.17.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  ripme
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for ripme-1.7.89.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  docker-client
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for docker-client-8.16.1-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for docker-client-8.16.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  soot
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for ca.mcgill.sable.soot.feature_2.5.2.jar
+>>>>extracting callgraph info for ca.mcgill.sable.soot.lib_2.5.2.jar
+>>>>extracting callgraph info for ca.mcgill.sable.soot_2.5.2.jar
+>>>>extracting callgraph info for ca.mcgill.sable.soot.help_2.5.2.jar
+>>>>extracting callgraph info for sootclasses-trunk.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  jdbi
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 21 jars
+>>>>extracting callgraph info for jdbi3-sqlite-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-generator-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-spring4-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-kotlin-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-kotlin-sqlobject-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-jpa-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-freemarker-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-policy-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-json-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-jodatime2-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-benchmark-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-jackson2-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-gson2-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-sqlobject-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-commons-text-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-core-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-vavr-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-docs-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-guava-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-postgres-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph info for jdbi3-stringtemplate4-3.11.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>extracting method info of protostuff...
+>>>>writing to csv files...
+>>>>done.
+excute time:10717ms
+>>>>extracting method info of marytts...
+>>>>writing to csv files...
+>>>>done.
+excute time:21123ms
+>>>>extracting method info of iri...
+>>>>writing to csv files...
+>>>>done.
+excute time:6581ms
+>>>>extracting method info of slf4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:3886ms
+>>>>extracting method info of teavm...
+>>>>writing to csv files...
+>>>>done.
+excute time:16204ms
+>>>>extracting method info of optaplanner...
+>>>>writing to csv files...
+>>>>done.
+excute time:17095ms
+>>>>extracting method info of docx4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:35674ms
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at gr.gousiosg.javacg.stat.DynamicCallManager.retrieveCalls(DynamicCallManager.java:84)
+	at gr.gousiosg.javacg.stat.ClassVisitor.visitJavaClass(ClassVisitor.java:65)
+	at gr.gousiosg.javacg.stat.ClassVisitor.start(ClassVisitor.java:92)
+	at gr.gousiosg.javacg.stat.JCallGraph.lambda$main$1(JCallGraph.java:78)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:271)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of Resty...
+>>>>writing to csv files...
+>>>>done.
+excute time:6485ms
+
+
+>>>>Project No: 8
+>>>>extracting infomation for  protostuff
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 20 jars
+>>>>extracting callgraph info for protostuff-runtime-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-parser-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-maven-plugin-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-runtime-registry-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-xml-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-compiler-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-uberjar-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-uberjar-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-json-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-collectionschema-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-benchmarks.jar
+>>>>extracting callgraph info for protostuff-benchmarks-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-yaml-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-core-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-it-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-msgpack-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-runtime-md-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-api-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-runtime-view-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for protostuff-kvp-1.7.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  marytts
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for marytts-runtime-6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for marytts-signalproc-6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for marytts-lang-de-6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for marytts-common-6.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  iri
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for iri-1.8.2.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  slf4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 12 jars
+>>>>extracting callgraph info for slf4j-api-1.4.2.jar
+>>>>extracting callgraph info for log4j-over-slf4j-1.4.2.jar
+>>>>extracting callgraph info for slf4j-simple-1.4.2.jar
+>>>>extracting callgraph info for slf4j-nop-1.5.6.jar
+>>>>extracting callgraph info for slf4j-simple-1.6.6.jar
+>>>>extracting callgraph info for slf4j-simple-1.5.0.jar
+>>>>extracting callgraph info for slf4j-api-1.6.6.jar
+>>>>extracting callgraph info for slf4j-api-1.6.99.jar
+>>>>extracting callgraph info for slf4j-simple-1.6.99.jar
+>>>>extracting callgraph info for slf4j-simple-1.5.11.jar
+>>>>extracting callgraph info for slf4j-api-2.0.99.jar
+>>>>extracting callgraph info for slf4j-api-1.5.11.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  teavm
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 20 jars
+>>>>extracting callgraph info for teavm-metaprogramming-api-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-metaprogramming-impl-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-interop-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-html4j-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-core-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-classlib-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-platform-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-devserver-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-maven-plugin-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-maven-webapp-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-tooling-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-junit-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-chrome-rdp-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-c-incremental-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-jso-apis-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-jso-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-jso-impl-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-jso-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-samples-benchmark-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for teavm-extras-slf4j-0.7.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  optaplanner
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for optaplanner-persistence-jaxb-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-persistence-common-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-persistence-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-persistence-jackson-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-persistence-xstream-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-benchmark-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-workbench-models-datamodel-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-workbench-models-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-core-gwt-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for optaplanner-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  docx4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 18 jars
+>>>>extracting callgraph info for docx4j-docx-anon-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-openxml-objects-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-JAXB-ReferenceImpl-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-docx4j-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-pptx4j-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-export-fo-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-diffx-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-core-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-docx-export-fo-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-openxml-objects-pml-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-bundle-8.1.4-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for docx4j-bundle-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-openxml-objects-sml-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-glox4j-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-JAXB-MOXy-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-xlsx4j-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-samples-docx-diffx-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph info for docx4j-JAXB-Internal-8.1.4-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  Resty
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 22 jars
+>>>>extracting callgraph info for resty-security-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-common-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-upload-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-orm-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-mail-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-cache-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-captcha-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-upload-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-orm-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-log-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-cache-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-route-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-httpclient-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-security-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-common-1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-log-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-httpclient-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-quartz-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-route-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-mail-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-server-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph info for resty-captcha-v1.3.1.SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 26
+analyzed projects count: 15
+analyzed jars count: 192
+missed projects: ['javacpp-presets', 'BroadleafCommerce', 'ambrose', 'ha-bridge', 'configuration-as-code-plugin', 'google-cloud-java', 'lanterna', 'restcountries', 'blueprints', 'kafka-rest', 'HotswapAgent']
+all time used: 882.3438878059387 s
+===============================

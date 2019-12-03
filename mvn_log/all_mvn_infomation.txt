@@ -20,3 +20,93 @@ package projects: nifi initializr TelegramBots easy-rules webcam-capture Signal-
 delete no maven projects: Lightweight-Stream-API HMCL mongo-hadoop JavaHamcrest aws-cf-templates geode elasticsearch-hadoop stagemonitor platform_frameworks_support aws-doc-sdk-examples gitblit jOOL phimpme-android sshj syncany susi_server incubator-gobblin geoserver FBReaderJ groovy-core ics-openvpn jphp
 all time used: 5705.711672306061s
 ===============================
+===============================
+experiment NO: 8
+experiment time: Tue Nov 19 15:30:34 2019
+all projects count: 49
+package projects count: 18
+package projects: logstash-logback-encoder avro morphia rapidoid classgraph docker-java J2V8 galen flyingsaucer metadata-extractor seldon-server Saturn scouter secor OpenTripPlanner picocli x7 spring-cloud-config
+delete no maven projects: testng okbuck ehcache3 RoaringBitmap CompactCalendarView servo LeetCode-Sol-Res RoboBinding functionaljava MifareClassicTool spring-batch tailor rest-client fitnesse nomulus orbit voltdb SeriesGuide spotbugs spring-session open-event-droidgen PublicCMS moquette sms-backup-plus liferay-portal Leetcode afwall jabref focus-android intellij-plugins squidb
+all time used: 1537.1889157295227s
+===============================
+===============================
+experiment NO: 9
+experiment time: Wed Nov 20 02:29:12 2019
+all projects count: 49
+package projects count: 26
+package projects: javacpp-presets BroadleafCommerce bootique sqlite-jdbc ambrose ha-bridge drill configuration-as-code-plugin ripme google-cloud-java docker-client soot jdbi lanterna protostuff restcountries blueprints marytts iri slf4j teavm optaplanner kafka-rest HotswapAgent docx4j Resty
+delete no maven projects: keepass2android simplenote-android H-Viewer jcommander genie elassandra embulk KISS calcite allure2 RxNetty visualvm toro connectbot UserLAnd ambry WorldEdit andOTP open-keychain google-maps-services-java AndroidTraining remote-desktop-clients android-examples
+all time used: 3738.6610839366913s
+===============================
+===============================
+experiment NO: 10
+experiment time: Wed Nov 20 08:36:01 2019
+all projects count: 49
+package projects count: 22
+package projects: primefaces modelmapper jooby kubernetes-plugin ambari java-driver fast-serialization datumbox-framework find-sec-bugs spring-cloud-sleuth elasticsearch-river-mongodb openhab2-addons eclipse-collections streamex elephant-bird pi4j AsciidocFX spring-data-mongodb pushy handlebars.java hawtio ttorrent
+delete no maven projects: pslab-android sphinx4 BottomSheetPickers syncthing-android BuildCraft gwt squirrel capsule riot-android Android-Templates-And-Utilities intellij-elixir chat-sdk-android StreetComplete netbeans keepassdroid ThirtyInch parboiled couchbase-lite-android PokeGOAPI-Java astrid kaa AnExplorer gpslogger rsocket-java ChromeLikeTabSwitcher aima-java Slide
+all time used: 3498.213830471039s
+===============================
+===============================
+experiment NO: 11
+experiment time: Wed Nov 20 12:08:40 2019
+all projects count: 49
+package projects count: 19
+package projects: jbpm google-http-java-client schema-registry guacamole-client psi-probe commonmark-java paho.mqtt.java OpenID-Connect-Java-Spring-Server jitsi-videobridge flexmark-java Glowstone oshi struts camunda-bpm-platform spring-data-redis FXGL honest-profiler gitlab-plugin android-maven-plugin
+delete no maven projects: photup codelibrary apps-android-wikipedia selenide phpinspectionsea loklak_server msgpack-java usergrid AnySoftKeyboard bc-java RedReader grpc-spring-boot-starter gh4a cqengine open-event-organizer-android Silence cyclops cgeo seldon-core eclim vrapper astyanax JDA Project-Euler-solutions SpongeAPI SpongeForge dal idea-gitignore uaa phonegap-plugins
+all time used: 2580.896463871002s
+===============================
+===============================
+experiment NO: 12
+experiment time: Wed Nov 20 14:45:38 2019
+all projects count: 49
+package projects count: 23
+package projects: pitest schemaspy webdrivermanager tlaplus servicecomb-java-chassis pdfbox maven-git-commit-id-plugin HiBench ebean Universal-G-Code-Sender sql2o soapui seyren UniversalMediaServer kubernetes-client TwelveMonkeys Kundera parquet-mr mage crash tinkerpop servicecomb-pack pf4j
+delete no maven projects: fastutil android-simple-facebook talon-for-twitter-android parseq circuitjs1 p6spy moonlight-android QR-Code-generator mobileorg-android bugsnag-android CodenameOne ngrinder proteus teammates Priam mycollab neo4j-apoc-procedures caja spring-restdocs quran_android micro-server toothpick spring-integration jsweet i2p.i2p Travel-Mate
+all time used: 3710.165517091751s
+===============================
+===============================
+experiment NO: 13
+experiment time: Fri Nov 22 04:24:54 2019
+all projects count: 49
+package projects count: 26
+package projects: wasabi strimzi-kafka-operator opennlp jsprit airsonic httpcomponents-client data-algorithms-book hugegraph openmrs-core hapi-fhir XChart photon webbit Resteasy camus siddhi gravitee-gateway systemml spoon spring-hateoas google-api-java-client tika mondrian Android-Cookbook-Examples selendroid swift
+delete no maven projects: baasbox flutter-intellij geotools mongo4idea OpenCamera lenskit TweetLanes java-docs-samples ArchUnit poi logback-android mixpanel-android jbake grobid digdag droidparts mct hollow SMSSync WiFiAnalyzer eclipse-themes play-authenticate WechatUnrecalled
+all time used: 3804.58172249794s
+===============================
+===============================
+experiment NO: 14
+experiment time: Sat Nov 23 02:52:21 2019
+all projects count: 49
+package projects count: 27
+package projects: accumulo rtree SchemaCrawler Singularity cloudstack logging-log4j2 jbox2d rabbitmq-java-client couchdb-lucene influxdb-java pebble rxjava-jdbc s3proxy mule amidst Nukkit JGroups rakam infinispan jackson-annotations jgit BungeeCord easy-random flow-platform pdfsam weblaf PretendYoureXyzzy
+delete no maven projects: aliyun-openapi-java-sdk hackerskeyboard overlap2d suro autopsy reactor-netty mapsforge sbt-android zotfile spring-kafka open-event-android transdroid FreeBuilder jnativehook governator dynmap Tusky spotless AcDisplay PixelFlow pravega Fetch
+all time used: 3576.681022644043s
+===============================
+===============================
+experiment NO: 15
+experiment time: Tue Nov 26 02:13:15 2019
+all projects count: 49
+package projects count: 24
+package projects: Mallet kylo quickstart pippo pacbot jline2 SecurityShepherd owner mina junit-quickcheck phoenix bookkeeper activejdbc pgjdbc jBrowserDriver BIMserver jcseg pigeon jboss-eap-quickstarts umlet objectify Payara memcached-session-manager FluentLenium
+delete no maven projects: encog-java-core qbit erjang Botania heroic istio-tutorial Filmy RichTextFX spring-android rtmp-rtsp-stream-client-java Algorithms snappy-java Etar-Calendar atlasdb cuba idea-php-symfony2-plugin droidkaigi2016 AnyChart-Android java-client achartengine validator epublib spring-statemachine onos appinventor-sources
+all time used: 3959.1959235668182s
+===============================
+===============================
+experiment NO: 16
+experiment time: Tue Nov 26 10:07:44 2019
+all projects count: 49
+package projects count: 27
+package projects: args4j Essentials aws-sdk-android vertx-web light-admin hector univocity-parsers jolokia metron spring-data-rest glowroot mssql-jdbc xmemcached spring-roo egit-github zemberek-nlp pcap4j fscrawler hibernate-validator polyglot-maven zeebe jnr-ffi dynjs vlcj Recaf restfb log4j
+delete no maven projects: vanilla ofbiz gatk Peergos intellij-erlang xodus apkupdater Clover yang AppiumTestDistribution Dank Applied-Energistics-2 sentry-react-native cv4j checkstyle-idea tomahawk-android py4j financius viskell aurora opentasks XPrivacyLua
+all time used: 3960.0342173576355s
+===============================
+===============================
+experiment NO: 17
+experiment time: Tue Nov 26 14:09:46 2019
+all projects count: 49
+package projects count: 25
+package projects: actframework blueflood cxf easymock caliper spring-cloud-consul xdocreport consulo floodlight lambda eclipse.jdt.ls jfairy mvel SikuliX2 spring-data-neo4j swagger-maven-plugin ff4j aws-sdk-java-v2 findbugs commons-io hppc incubator-datasketches-java elide openhtmltopdf nodebox
+delete no maven projects: MozStumbler MarkNote ChkBugReport opencensus-java Mindustry blockly-android J2ME-Loader sqoop android_frameworks_base algorithms-sedgewick-wayne JSAT SkyTube restlet-framework-java TestFX TinkersConstruct yodaqa open-liberty spring-hadoop intellij-sdk-docs markor conscrypt pig rskj RSyntaxTextArea
+all time used: 10832.680718421936s
+===============================

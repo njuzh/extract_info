@@ -1,0 +1,418 @@
+nohup: ignoring input
+>>>>extracting method info of Mallet...
+>>>>writing to csv files...
+>>>>done.
+excute time:8678ms
+>>>>extracting method info of kylo...
+>>>>writing to csv files...
+>>>>done.
+excute time:20504ms
+>>>>extracting method info of pippo...
+>>>>writing to csv files...
+>>>>done.
+excute time:3907ms
+>>>>extracting method info of jline2...
+>>>>writing to csv files...
+>>>>done.
+excute time:2467ms
+>>>>extracting method info of owner...
+>>>>writing to csv files...
+>>>>done.
+excute time:1720ms
+>>>>extracting method info of mina...
+>>>>writing to csv files...
+>>>>done.
+excute time:3287ms
+>>>>Project No: 1
+>>>>extracting infomation for  Mallet
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for mallet-deps.jar
+>>>>extracting callgraph info for mallet-2.1-alpha.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  kylo
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 29 jars
+>>>>extracting callgraph info for kylo-commons-jdbc-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-util-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-jpa-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-security-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-rest-model-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-feed-util-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-livy-2.10-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-livy-2.11-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-2.0-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-repl-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-scala-2.10-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-scala-2.11-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-scala-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-livy-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-spark-1.6-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-rest-client-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-commons-util7-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-field-policy-rest-model-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-metadata-service-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-schema-discovery-model2-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-security-rest-model-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-catalog-model-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-spark-catalog-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-spark-job-profiler-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-ui-annotation-rest-model-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-ui-annotation-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-schema-discovery-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph info for kylo-field-policy-api-0.10.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  pippo
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 43 jars
+>>>>extracting callgraph info for pippo-session-spymemcached-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-xmemcached-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-jdbc-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-jedis-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-ehcache2-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-ehcache3-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-mongodb-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-infinispan-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-hazelcast-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-jcache-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-session-cookie-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-controller-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-weld-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-guice-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-spring-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-metrics-prometheus-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-metrics-librato-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-metrics-graphite-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-metrics-influxdb-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-metrics-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-sasscompiler-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-less4j-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-groovy-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-freemarker-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-pebble-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-velocity-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-jade-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-trimou-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-pac4j-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-core-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-gson-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-fastjson-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-snakeyaml-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-jaxb-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-jackson-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-xstream-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-csv-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-jetty-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-tomcat-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-undertow-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-tjws-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pippo-quickstart-1.13.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  jline2
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for jline-2.14.7-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  owner
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for owner-java8-extras-1.0.11-SNAPSHOT.jar
+>>>>extracting callgraph info for owner-extras-1.0.11-SNAPSHOT.jar
+>>>>extracting callgraph info for owner-1.0.11-SNAPSHOT.jar
+>>>>extracting callgraph info for owner-java8-1.0.11-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  mina
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 12 jars
+>>>>extracting callgraph info for mina-http2-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-avro-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-protobuf-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-benchmarks-netty3-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-benchmarks-common-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-benchmarks-netty4-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-monitoring-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-core-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-coap-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-thrift-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-codec-3.0.0-M3-SNAPSHOT.jar
+>>>>extracting callgraph info for mina-http-3.0.0-M3-SNAPSHOT.jar>>>>extracting method info of junit-quickcheck...
+>>>>writing to csv files...
+>>>>done.
+excute time:2799ms
+>>>>extracting method info of phoenix...
+>>>>writing to csv files...
+>>>>done.
+excute time:35997ms
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of jBrowserDriver...
+>>>>writing to csv files...
+>>>>done.
+excute time:9303ms
+>>>>extracting method info of BIMserver...
+>>>>writing to csv files...
+>>>>done.
+excute time:282076ms
+>>>>extracting method info of jcseg...
+>>>>writing to csv files...
+>>>>done.
+excute time:9333ms
+>>>>extracting method info of jboss-eap-quickstarts...
+>>>>writing to csv files...
+>>>>done.
+excute time:9638ms
+>>>>extracting method info of umlet...
+>>>>writing to csv files...
+>>>>done.
+excute time:11195ms
+>>>>extracting method info of objectify...
+>>>>writing to csv files...
+>>>>done.
+excute time:7287ms
+>>>>extracting method info of memcached-session-manager...
+>>>>writing to csv files...
+>>>>done.
+excute time:5990ms
+>>>>extracting method info of FluentLenium...
+>>>>writing to csv files...
+>>>>done.
+excute time:7167ms
+
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  junit-quickcheck
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for junit-quickcheck-core-0.10-SNAPSHOT.jar
+>>>>extracting callgraph info for junit-quickcheck-generators-0.10-SNAPSHOT.jar
+>>>>extracting callgraph info for junit-quickcheck-guava-0.10-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  phoenix
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 9 jars
+>>>>extracting callgraph info for phoenix-tracing-webapp-5.1.0-HBase-2.0-SNAPSHOT-runnable.jar
+>>>>extracting callgraph info for phoenix-tracing-webapp-5.1.0-HBase-2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for phoenix-5.1.0-HBase-2.0-SNAPSHOT-server.jar
+>>>>extracting callgraph info for phoenix-core-5.1.0-HBase-2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for phoenix-5.1.0-HBase-2.0-SNAPSHOT-client.jar
+>>>>extracting callgraph info for phoenix-client-5.1.0-HBase-2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for phoenix-client-5.1.0-HBase-2.0-SNAPSHOT-embedded.jar
+>>>>extracting callgraph info for phoenix-pherf-5.1.0-HBase-2.0-SNAPSHOT-minimal.jar
+>>>>extracting callgraph info for phoenix-pherf-5.1.0-HBase-2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  jBrowserDriver
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for jbrowserdriver-1.1.2-SNAPSHOT-uberjar.jar
+>>>>extracting callgraph info for jbrowserdriver-1.1.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  BIMserver
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for bimserver-1.5.179-SNAPSHOT.jar
+>>>>extracting callgraph info for bimserverjar-1.5.179-SNAPSHOT.jar
+>>>>extracting callgraph info for bimserverclientlib-1.5.179-SNAPSHOT.jar
+>>>>extracting callgraph info for bimserver-1.5.179-SNAPSHOT.jar
+>>>>extracting callgraph info for bimserverclientlib-1.5.179-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  jcseg
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 6 jars
+>>>>extracting callgraph info for jcseg-elasticsearch-2.6.0.jar
+>>>>extracting callgraph info for jcseg-analyzer-2.6.0.jar
+>>>>extracting callgraph info for jcseg-core-2.6.0.jar
+>>>>extracting callgraph info for jcseg-server-2.6.0.jar
+>>>>extracting callgraph info for jcseg-core-2.6.0.jar
+>>>>extracting callgraph info for jcseg-server-2.6.0.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  jboss-eap-quickstarts
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for org.jboss.eap.quickstarts-ejb-multi-server-app-two-ejb-7.2.0.GA-client.jar
+>>>>extracting callgraph info for org.jboss.eap.quickstarts-ejb-multi-server-app-one-ejb-7.2.0.GA-client.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  umlet
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 11 jars
+>>>>extracting callgraph info for umlet-swing-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for umlet-res-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for umlet-eclipse-feature-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for com.umlet.plugin-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for umlet-elements.jar
+>>>>extracting callgraph info for umlet-swing.jar
+>>>>extracting callgraph info for umlet-standalone-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for umlet-eclipse-plugin-deps-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for umlet-elements.jar
+>>>>extracting callgraph info for umlet-swing.jar
+>>>>extracting callgraph info for umlet-elements-14.4.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  objectify
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for objectify-6.0.6-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  memcached-session-manager
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for memcached-session-manager-2.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for memcached-session-manager-tc6-2.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for memcached-session-manager-tc8-2.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for memcached-session-manager-tc7-2.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for memcached-session-manager-tc9-2.3.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 16
+>>>>extracting infomation for  FluentLenium
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 7 jars
+>>>>extracting callgraph info for fluentlenium-coverage-report-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-junit-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-assertj-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-core-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-cucumber-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-junit-jupiter-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for fluentlenium-spock-4.3.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 24
+analyzed projects count: 16
+analyzed jars count: 142
+missed projects: ['quickstart', 'pacbot', 'SecurityShepherd', 'bookkeeper', 'activejdbc', 'pgjdbc', 'pigeon', 'Payara']
+all time used: 1115.8190801143646 s
+===============================

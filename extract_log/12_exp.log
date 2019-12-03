@@ -1,0 +1,242 @@
+nohup: ignoring input
+>>>>extracting method info of schemaspy...
+>>>>writing to csv files...
+>>>>done.
+excute time:2963ms
+>>>>extracting method info of webdrivermanager...
+>>>>writing to csv files...
+>>>>done.
+excute time:1368ms
+>>>>extracting method info of pdfbox...
+>>>>writing to csv files...
+>>>>done.
+excute time:14240ms
+>>>>extracting method info of HiBench...
+>>>>writing to csv files...
+>>>>done.
+excute time:2768ms
+>>>>extracting method info of ebean...
+>>>>writing to csv files...
+>>>>done.
+excute time:13627ms
+>>>>extracting method info of Universal-G-Code-Sender...
+>>>>writing to csv files...
+>>>>done.
+excute time:6420ms
+>>>>extracting method info of sql2o...
+>>>>writing to csv files...
+>>>>done.
+excute time:1992ms
+>>>>extracting method info of soapui...
+>>>>writing to csv files...
+>>>>done.
+excute time:26005ms
+>>>>extracting method info of TwelveMonkeys...
+>>>>writing to csv files...
+>>>>done.
+excute time:11339ms
+>>>>extracting method info of Kundera...
+>>>>writing to csv files...
+>>>>done.
+excute time:10151ms
+>>>>extracting method info of mage...
+>>>>writing to csv files...
+>>>>done.
+excute time:81697ms
+>>>>extracting method info of crash...
+>>>>writing to csv files...
+>>>>done.
+excute time:5643ms
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 1
+>>>>extracting infomation for  schemaspy
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for schemaspy-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  webdrivermanager
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for webdrivermanager-3.7.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  pdfbox
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for pdfbox-debugger-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pdfbox-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pdfbox-app-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for pdfbox-tools-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  HiBench
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for hibench-common-7.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  ebean
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for ebean-12.1.4-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  Universal-G-Code-Sender
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for UniversalGcodeSender.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  sql2o
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for sql2o-1.6.1-SNAPSHOT.jar
+>>>>extracting callgraph info for sql2o-postgres-1.6.1-SNAPSHOT.jar
+>>>>extracting callgraph info for sql2o-db2-1.6.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  soapui
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for soapui-maven-plugin-5.6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for soapui-5.6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for soapui-swagger-plugin-2.2-dist.jar
+>>>>extracting callgraph info for soapui-installer-5.6.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  TwelveMonkeys
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 24 jars
+>>>>extracting callgraph info for twelvemonkeys-contrib-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-common-io-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-common-image-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-common-lang-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-servlet-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-clippath-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-tiff-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-thumbsdb-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-metadata-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-icns-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-iff-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-batik-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-pcx-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-pdf-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-tga-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-jpeg-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-core-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-reference-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-hdr-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-bmp-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-psd-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-pict-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-sgi-3.5-SNAPSHOT.jar
+>>>>extracting callgraph info for twelvemonkeys-imageio-pnm-3.5-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  Kundera
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 23 jars
+>>>>extracting callgraph info for kundera-couchbase-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-rest-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-core-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-rdbms-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-kudu-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-hbase-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-hbase-v2-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-couchdb-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-ethereum-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-mongo-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-oracle-nosql-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-elastic-search-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-rethinkdb-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-neo4j-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-redis-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-spark-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-spark-cassandra-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-spark-mongodb-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-spark-hive-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-spark-teradata-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-cassandra-pelops-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-cassandra-ds-driver-3.14-SNAPSHOT.jar
+>>>>extracting callgraph info for kundera-cassandra-3.14-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  mage
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for mage-common.jar
+>>>>extracting callgraph info for mage-counter-plugin.jar
+>>>>extracting callgraph info for mage.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  crash
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 14 jars
+>>>>extracting callgraph info for crash.embed.spring-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash-1.3.3-SNAPSHOT-war-exec-spring.jar
+>>>>extracting callgraph info for crash-1.3.3-SNAPSHOT-war-exec.jar
+>>>>extracting callgraph info for crash-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.shell-1.3.3-SNAPSHOT-standalone.jar
+>>>>extracting callgraph info for crash.shell-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.cli-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.connectors.ssh-1.3.3-SNAPSHOT-standalone.jar
+>>>>extracting callgraph info for crash.connectors.ssh-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.connectors.telnet-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.connectors.telnet-1.3.3-SNAPSHOT-standalone.jar
+>>>>extracting callgraph info for crash.connectors.web-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.cli-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph info for crash.shell-1.3.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 23
+analyzed projects count: 12
+analyzed jars count: 80
+missed projects: ['pitest', 'tlaplus', 'servicecomb-java-chassis', 'maven-git-commit-id-plugin', 'seyren', 'UniversalMediaServer', 'kubernetes-client', 'parquet-mr', 'tinkerpop', 'servicecomb-pack', 'pf4j']
+all time used: 367.7818148136139 s
+===============================

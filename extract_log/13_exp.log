@@ -1,0 +1,815 @@
+nohup: ignoring input
+>>>>extracting method info of wasabi...
+>>>>writing to csv files...
+>>>>done.
+excute time:5209ms
+>>>>extracting method info of opennlp...
+>>>>writing to csv files...
+>>>>done.
+excute time:11021ms
+Error while processing jar: zip END header not found
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1535)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1436)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1443)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1274)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1237)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+Error while processing jar: zip END header not found
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1535)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1436)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1443)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1274)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1237)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+Error while processing jar: zip END header not found
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1535)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1436)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1443)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1274)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1237)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+Error while processing jar: zip END header not found
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1535)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1436)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1443)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1274)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1237)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+Error while processing jar: invalid CEN header (bad signature)
+java.util.zip.ZipException: invalid CEN header (bad signature)
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1535)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1495)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1274)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1237)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+>>>>extracting method info of jsprit...
+>>>>writing to csv files...
+>>>>done.
+excute time:3893ms
+>>>>extracting method info of airsonic...
+>>>>writing to csv files...
+>>>>done.
+excute time:4717ms
+>>>>extracting method info of hugegraph...
+>>>>writing to csv files...
+>>>>done.
+excute time:4663ms
+>>>>extracting method info of hapi-fhir...
+>>>>writing to csv files...
+>>>>done.
+excute time:34540ms
+>>>>Project No: 1
+>>>>extracting infomation for  wasabi
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 29 jars
+>>>>extracting callgraph info for wasabi-auditlog-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-analytics-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-api-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-cassandra-datastax-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-assignment-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-experiment-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-feedback-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-experiment-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-analytics-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-authorization-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-email-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-export-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-exceptions-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-event-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-util-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-assignment-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-database-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-repository-datastax-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-user-directory-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-event-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-authentication-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-swagger-ui-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-main-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-main-1.0.20190619090227-SNAPSHOT-development-all.jar
+>>>>extracting callgraph info for wasabi-eventlog-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-feedback-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-authorization-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-auditlog-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph info for wasabi-authentication-objects-1.0.20190619090227-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  opennlp
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for opennlp-uima-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-tools.jar
+>>>>extracting callgraph info for opennlp-brat-annotator-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-tools-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-morfologik-addon-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-uima-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-tools.jar
+>>>>extracting callgraph info for opennlp-brat-annotator-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-tools-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph info for opennlp-morfologik-addon-1.9.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  jsprit
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for jsprit-instances-1.8-SNAPSHOT.jar
+>>>>extracting callgraph info for jsprit-analysis-1.8-SNAPSHOT.jar
+>>>>extracting callgraph info for jsprit-io-1.8-SNAPSHOT.jar
+>>>>extracting callgraph info for jsprit-core-1.8-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  airsonic
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for airsonic-sonos-api-10.6.0-SNAPSHOT.jar
+>>>>extracting callgraph info for airsonic-sonos-api-10.6.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  hugegraph
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 21 jars
+>>>>extracting callgraph info for hugegraph-palo-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-api-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-postgresql-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-mysql-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-dist-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-scylladb-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-cassandra-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-palo-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-rocksdb-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-hbase-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-common-1.6.16.jar
+>>>>extracting callgraph info for hugegraph-core-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-core-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-rocksdb-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-scylladb-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-mysql-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-cassandra-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-dist-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-hbase-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-postgresql-0.11.0.jar
+>>>>extracting callgraph info for hugegraph-api-0.11.0.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  hapi-fhir
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 86 jars
+>>>>extracting callgraph info for hapi-fhir-igpacks-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-model-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-okhttp-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-android-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-docs-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-validation-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jaxrsserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-hl7org-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2.1-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jarException in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of XChart...
+>>>>writing to csv files...
+>>>>done.
+excute time:6205ms
+>>>>extracting method info of photon...
+>>>>writing to csv files...
+>>>>done.
+excute time:2953ms
+>>>>extracting method info of webbit...
+>>>>writing to csv files...
+>>>>done.
+excute time:3811ms
+>>>>extracting method info of Resteasy...
+>>>>writing to csv files...
+>>>>done.
+excute time:14822ms
+
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2.1-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r5-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-migrate-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-converter-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-model-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-validation-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-hl7org-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-searchparam-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-subscription-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r5-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jaxrsserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r5-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-autoconfigure-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-sample-server-jpa-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-sample-client-okhttp-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-sample-client-apache-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-sample-server-jersey-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-spring-boot-starter-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-subscription-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-hl7org-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-searchparam-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-converter-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-cli-api-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-cli-app-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-cli.jar
+>>>>extracting callgraph info for hapi-fhir-cli-jpaserver-classes.jar
+>>>>extracting callgraph info for hapi-fhir-converter-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-model-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-validation-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-hl7org-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-searchparam-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jpaserver-subscription-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r5-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-r4-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-jaxrsserver-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-hl7org-dstu2-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-client-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu2.1-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-base-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-server-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for hapi-fhir-structures-dstu3-4.2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  XChart
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for xchart-demo-3.6.1-SNAPSHOT.jar
+>>>>extracting callgraph info for xchart-3.6.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  photon
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for photon-0.3.2.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  webbit
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for webbit-0.4.16-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  Resteasy
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 210 jars
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-yaml-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxrs-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-tracing-api-1.0.0.Beta4.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-validator-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jettison-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-yaml-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxrs-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-tracing-api-1.0.0.Beta4.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-validator-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-spring-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jettison-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-yaml-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxrs-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-tracing-api-1.0.0.Beta4.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-validator-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jettison-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-yaml-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxrs-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-tracing-api-1.0.0.Beta4.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-validator-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-3.7.0.Final.jar>>>>extracting method info of camus...
+>>>>writing to csv files...
+>>>>done.
+excute time:4774ms
+>>>>extracting method info of siddhi...
+>>>>writing to csv files...
+>>>>done.
+excute time:12874ms
+>>>>extracting method info of gravitee-gateway...
+>>>>writing to csv files...
+>>>>done.
+excute time:5375ms
+
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jettison-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-3.7.0.Final.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for RESTEASY-1630-jetty-resteasy-servlet-initializer-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for RESTEASY-736-jetty-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for RESTEASY-1056-jetty-bv11-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-jetty-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-fastinfoset-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-html-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-wadl-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-stats-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-links-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-microprofile-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-tracing-api-1.0.0.Beta4.jar
+>>>>extracting callgraph info for resteasy-validator-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-binding-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-api-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-core-spi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-json-p-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jackson2-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jaxb-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-atom-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-multipart-provider-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-netty4-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jdk-http-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-undertow-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-vertx-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-undertow-spring-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-netty4-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-guice-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-context-propagation-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-rxjava2-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-jsapi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-crypto-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-servlet-initializer-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-vertx-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-spring-web-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cache-core-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-client-reactor-netty-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-reactor-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-wadl-undertow-connector-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for resteasy-cdi-4.5.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  camus
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 6 jars
+>>>>extracting callgraph info for camus-sweeper-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for camus-kafka-coders-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for camus-schema-registry-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for camus-etl-kafka-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for camus-api-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for camus-schema-registry-avro-0.1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  siddhi
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 14 jars
+>>>>extracting callgraph info for siddhi-query-compiler-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-service-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-annotations-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-query-api-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-core-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-query-compiler-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-annotations-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-query-api-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-core-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-query-compiler-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-query-api-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-doc-gen-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-core-doc-gen-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph info for siddhi-core-5.1.9-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  gravitee-gateway
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 42 jars
+>>>>extracting callgraph info for gravitee-gateway-env-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-core-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-apikey-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-oauth2-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-keyless-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-jwt-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-buffer-3.0.0-SNAPSHOT.jar>>>>extracting method info of systemml...
+>>>>writing to csv files...
+>>>>done.
+excute time:39695ms
+>>>>extracting method info of spoon...
+>>>>writing to csv files...
+>>>>done.
+excute time:17622ms
+>>>>extracting method info of spring-hateoas...
+>>>>writing to csv files...
+>>>>done.
+excute time:7587ms
+>>>>extracting method info of tika...
+>>>>writing to csv files...
+>>>>done.
+excute time:19325ms
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at gr.gousiosg.javacg.stat.DynamicCallManager.retrieveCalls(DynamicCallManager.java:84)
+	at gr.gousiosg.javacg.stat.ClassVisitor.visitJavaClass(ClassVisitor.java:65)
+	at gr.gousiosg.javacg.stat.ClassVisitor.start(ClassVisitor.java:92)
+	at gr.gousiosg.javacg.stat.JCallGraph.lambda$main$1(JCallGraph.java:78)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:271)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at gr.gousiosg.javacg.stat.DynamicCallManager.retrieveCalls(DynamicCallManager.java:84)
+	at gr.gousiosg.javacg.stat.ClassVisitor.visitJavaClass(ClassVisitor.java:65)
+	at gr.gousiosg.javacg.stat.ClassVisitor.start(ClassVisitor.java:92)
+	at gr.gousiosg.javacg.stat.JCallGraph.lambda$main$1(JCallGraph.java:78)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:271)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of mondrian...
+>>>>writing to csv files...
+>>>>done.
+excute time:27060ms
+>>>>extracting method info of swift...
+>>>>writing to csv files...
+>>>>done.
+excute time:6533ms
+
+>>>>extracting callgraph info for gravitee-gateway-dictionary-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-reactor-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-policy-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-http-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-handlers-api-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-repository-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-reporting-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-core-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-keyless-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-standalone-container-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-apikey-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-handlers-api-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-http-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-env-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-buffer-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-oauth2-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-core-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-security-jwt-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-repository-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-reactor-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-reporting-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-core-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-api-1.20.0.jar
+>>>>extracting callgraph info for gravitee-gateway-dictionary-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-policy-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-standalone-bootstrap-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-standalone-container-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-standalone-bootstrap-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-subscriptions-cache-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-heartbeat-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-sync-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-endpoint-discovery-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-healthcheck-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-apikeyscache-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for gravitee-gateway-services-localregistry-3.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  systemml
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for systemml-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SystemML.jar
+>>>>extracting callgraph info for systemml-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  spoon
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for spoon-core-8.1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 16
+>>>>extracting infomation for  spring-hateoas
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for spring-hateoas-1.1.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 17
+>>>>extracting infomation for  tika
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 14 jars
+>>>>extracting callgraph info for tika-bundle-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-server-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-xmp-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-batch-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-translate-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-eval-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-java7-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-nlp-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-serialization-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-parsers-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-langdetect-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-dl-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-app-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for tika-core-2.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 18
+>>>>extracting infomation for  mondrian
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for mondrian-9.0.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mondrian-9.0.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mondrian-schemaworkbench-plugins-9.0.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 19
+>>>>extracting infomation for  swift
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 11 jars
+>>>>extracting callgraph info for swift-service-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-codec-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-generator-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-load-generator-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-annotations-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift2thrift-generator-cli-0.23.2-SNAPSHOT-standalone.jar
+>>>>extracting callgraph info for swift2thrift-generator-cli-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-idl-parser-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-generator-cli-0.23.2-SNAPSHOT-standalone.jar
+>>>>extracting callgraph info for swift-generator-cli-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph info for swift-maven-plugin-0.23.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 27
+analyzed projects count: 19
+analyzed jars count: 461
+missed projects: ['strimzi-kafka-operator', 'repo', 'httpcomponents-client', 'data-algorithms-book', 'openmrs-core', 'google-api-java-client', 'Android-Cookbook-Examples', 'selendroid']
+all time used: 1775.3707423210144 s
+===============================

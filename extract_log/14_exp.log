@@ -1,0 +1,402 @@
+nohup: ignoring input
+>>>>extracting method info of rtree...
+>>>>writing to csv files...
+>>>>done.
+excute time:2283ms
+>>>>extracting method info of SchemaCrawler...
+>>>>writing to csv files...
+>>>>done.
+excute time:4708ms
+>>>>extracting method info of Singularity...
+>>>>writing to csv files...
+>>>>done.
+excute time:6881ms
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of cloudstack...
+>>>>writing to csv files...
+>>>>done.
+excute time:67002ms
+>>>>extracting method info of jbox2d...
+>>>>writing to csv files...
+>>>>done.
+excute time:11454ms
+>>>>extracting method info of couchdb-lucene...
+>>>>writing to csv files...
+>>>>done.
+excute time:4335ms
+>>>>extracting method info of influxdb-java...
+>>>>writing to csv files...
+>>>>done.
+excute time:6632ms
+>>>>extracting method info of pebble...
+>>>>writing to csv files...
+>>>>done.
+excute time:7176ms
+>>>>extracting method info of rxjava-jdbc...
+>>>>writing to csv files...
+>>>>done.
+excute time:5595ms
+>>>>extracting method info of s3proxy...
+>>>>writing to csv files...
+>>>>done.
+excute time:4420ms
+>>>>extracting method info of mule...
+>>>>writing to csv files...
+>>>>done.
+excute time:35755ms
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 1
+>>>>extracting infomation for  rtree
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for rtree-0.8.8-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  SchemaCrawler
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for schemacrawler-16.2.1.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  Singularity
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 20 jars
+>>>>extracting callgraph info for SingularityUI-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityService-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityService-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityS3Base-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityExecutorCleanup-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityExecutorCleanup-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityS3Uploader-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityS3Uploader-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityServiceIntegrationTests-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityExecutor-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityExecutor-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for EmbedSingularityExample-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for EmbedSingularityExample-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityS3Downloader-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityS3Downloader-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityRunnerBase-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityBase-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityClient-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph info for SingularityClient-1.2.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for SingularityMesosClient-1.2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  cloudstack
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for cloudstack-service-console-proxy-rdpclient-4.14.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cloud-plugin-outofbandmanagement-driver-nested-cloudstack-4.14.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  jbox2d
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for jbox2d-library-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jbox2d-serialization-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  couchdb-lucene
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for couchdb-lucene-2.2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  influxdb-java
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for influxdb-java-2.17-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  pebble
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for pebble-spring5-3.1.2-SNAPSHOT.jar
+>>>>extracting callgraph info for pebble-spring4-3.1.2-SNAPSHOT.jar
+>>>>extracting callgraph info for pebble-legacy-spring-boot-starter-3.1.2-SNAPSHOT.jar
+>>>>extracting callgraph info for pebble-spring-boot-starter-3.1.2-SNAPSHOT.jar
+>>>>extracting callgraph info for pebble-3.1.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  rxjava-jdbc
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for rxjava-jdbc-0.7.17-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  s3proxy
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for s3proxy-1.7.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  mule
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 65 jars
+>>>>extracting callgraph info for mule-module-artifact-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-service-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-extensions-spring-support-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-service-oauth-api-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-extensions-xml-support-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-service-http-api-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-service-soap-api-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-logging-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-container-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-repository-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-extensions-support-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-reboot-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-license-api-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-launcher-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-deployment-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-spring-config-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-tooling-support-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-deployment-model-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-tls-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-global-config-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-plugin-a-1.0.0-mule-plugin.jar
+>>>>extracting callgraph info for mule-module-deployment-model-impl-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-plugin-a-1.0.0-mule-plugin.jar
+>>>>extracting callgraph info for mule-module-extensions-soap-support-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-module-javaee-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-petstore-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-petstore-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-marvel-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-marvel-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-multi-implicit-config-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-multi-implicit-config-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-non-implicit-config-extension-4.3.0-SNAPSHOT.jar>>>>extracting method info of amidst...
+>>>>writing to csv files...
+>>>>done.
+excute time:7301ms
+>>>>extracting method info of rakam...
+>>>>writing to csv files...
+>>>>done.
+excute time:5485ms
+>>>>extracting method info of infinispan...
+>>>>writing to csv files...
+>>>>done.
+excute time:57005ms
+>>>>extracting method info of jackson-annotations...
+>>>>writing to csv files...
+>>>>done.
+excute time:3893ms
+>>>>extracting method info of BungeeCord...
+>>>>writing to csv files...
+>>>>done.
+excute time:7201ms
+>>>>extracting method info of easy-random...
+>>>>writing to csv files...
+>>>>done.
+excute time:6757ms
+>>>>extracting method info of weblaf...
+>>>>writing to csv files...
+>>>>done.
+excute time:44644ms
+
+>>>>extracting callgraph info for mule-non-implicit-config-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-vegan-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-vegan-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-implicit-config-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-implicit-config-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-tx-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-tx-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-implicit-exclusive-config-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-implicit-exclusive-config-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-heisenberg-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-heisenberg-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-parameter-resolver-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-parameter-resolver-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-substitution-group-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-substitution-group-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-metadata-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-metadata-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-values-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-values-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-rick-and-morty-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-rick-and-morty-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-typed-value-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-typed-value-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for custom-os-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for classloading-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-some-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-some-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-football-soap-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-football-soap-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-subtypes-extension-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-subtypes-extension-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for mule-core-deprecated-schema-plugin-4.3.0-SNAPSHOT-mule-plugin.jar
+>>>>extracting callgraph info for mule-core-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  amidst
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for amidst-v4-3.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  rakam
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 18 jars
+>>>>extracting callgraph info for rakam-presto-kafka-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-geoip-maxmind-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-geoip-ip2location-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-website-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-postgresql-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-spi-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-presto-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-presto-kafka-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-postgresql-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-spi-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-geoip-ip2location-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-website-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-presto-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-aws-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-mapper-geoip-maxmind-0.14-SNAPSHOT.jar
+>>>>extracting callgraph info for rakam-aws-0.14-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  infinispan
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for infinispan-checkstyle-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  jackson-annotations
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for jackson-annotations-3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jackson-annotations-3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 16
+>>>>extracting infomation for  BungeeCord
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for bungeecord-api-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-query-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for BungeeCord.jar
+>>>>extracting callgraph info for bungeecord-native-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-chat-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-log-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-event-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-proxy-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-config-1.14-SNAPSHOT.jar
+>>>>extracting callgraph info for bungeecord-protocol-1.14-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 17
+>>>>extracting infomation for  easy-random
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for easy-random-bean-validation-4.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for easy-random-core-4.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for easy-random-randomizers-4.1.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 18
+>>>>extracting infomation for  weblaf
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for weblaf-demo-1.2.11-SNAPSHOT.jar
+>>>>extracting callgraph info for weblaf-ninepatch-editor-1.2.11-SNAPSHOT.jar
+>>>>extracting callgraph info for weblaf-plugin-1.2.11-SNAPSHOT.jar
+>>>>extracting callgraph info for weblaf-core-1.2.11-SNAPSHOT.jar
+>>>>extracting callgraph info for weblaf-ui-1.2.11-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 27
+analyzed projects count: 18
+analyzed jars count: 140
+missed projects: ['accumulo', 'logging-log4j2', 'rabbitmq-java-client', 'Nukkit', 'JGroups', 'jgit', 'flow-platform', 'pdfsam', 'PretendYoureXyzzy']
+all time used: 1032.1556367874146 s
+===============================

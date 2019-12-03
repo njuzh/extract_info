@@ -1,0 +1,265 @@
+nohup: ignoring input
+>>>>extracting method info of jbpm...
+>>>>writing to csv files...
+>>>>done.
+excute time:14612ms
+>>>>extracting method info of psi-probe...
+>>>>writing to csv files...
+>>>>done.
+excute time:10083ms
+>>>>extracting method info of jitsi-videobridge...
+>>>>writing to csv files...
+>>>>done.
+excute time:7501ms
+>>>>extracting method info of Glowstone...
+>>>>writing to csv files...
+>>>>done.
+excute time:17299ms
+>>>>extracting method info of oshi...
+>>>>writing to csv files...
+>>>>done.
+excute time:11952ms
+>>>>Project No: 1
+>>>>extracting infomation for  jbpm
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 76 jars
+>>>>extracting callgraph info for jbpm-event-emitters-elasticsearch-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-document-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-xes-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-flow-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-case-mgmt-cmmn-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-case-mgmt-impl-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-case-mgmt-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-audit-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-shared-services-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-executor-ejb-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-impl-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-timer-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-client-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-cdi-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-executor-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-executor-cdi-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-kie-services-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-query-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-runtime-manager-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-module.jar
+>>>>extracting callgraph info for jbpm-installer-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-bpmn2-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-audit-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-workitems-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-persistence-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-persistence-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for idep-jbpm-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for idep-jbpm-ejb-services-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for idep-jbpm-persistence-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-executor-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-query-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-timer-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-executor-ejb-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-bpmn2-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-shared-services-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-rest-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-audit-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-workitems-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-bpmn2-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-persistence-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-persistence-jpa-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-kie-services-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-webservice-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-human-task-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-audit-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-api-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-services-ejb-impl-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-runtime-manager-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-flow-builder-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-flow-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-flow-builder-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-bpmn2-emfextmodel-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-jms-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-jms-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-bpmn2-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-bpmn2-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-rest-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-rest-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-email-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-email-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-core-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-archetype-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-webservice-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jbpm-workitems-webservice-7.31.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  psi-probe
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for psi-probe-tomcat7-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-tomcat9-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-core-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-tomcat7-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-tomcat9-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-tomcat85-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-ojdbc-3.1.1.jar
+>>>>extracting callgraph info for psi-probe-core-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-tomcat85-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph info for psi-probe-rest-3.3.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  jitsi-videobridge
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for jitsi-videobridge-2.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  Glowstone
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for glowstone.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  oshi
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for oshi-core-shaded-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for oshi-demo-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for oshi-core-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>extracting method info of struts...
+>>>>writing to csv files...
+>>>>done.
+excute time:35981ms
+>>>>extracting method info of spring-data-redis...
+>>>>writing to csv files...
+>>>>done.
+excute time:13202ms
+>>>>extracting method info of gitlab-plugin...
+>>>>writing to csv files...
+>>>>done.
+excute time:4254ms
+>>>>extracting method info of android-maven-plugin...
+>>>>writing to csv files...
+>>>>done.
+excute time:5301ms
+
+
+>>>>Project No: 6
+>>>>extracting infomation for  struts
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 43 jars
+>>>>extracting callgraph info for struts2-portlet-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-bean-validation-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-spring-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-json-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-convention-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-javatemplates-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-pell-multipart-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-jfreechart-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-plexus-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-osgi-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-portlet-tiles-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-async-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-oval-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-embeddedjsp-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-junit-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-config-browser-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-tiles-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-cdi-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-rest-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-jasperreports-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-sitemesh-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-gxp-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-dwr-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-core-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-convention-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-json-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-core-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-bean-validation-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-config-browser-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-async-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-spring-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts-tiles-1.3.8.jar
+>>>>extracting callgraph info for struts-taglib-1.3.8.jar
+>>>>extracting callgraph info for struts-core-1.3.8.jar
+>>>>extracting callgraph info for struts2-sitemesh-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-tiles-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-dwr-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-convention-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-core-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-config-browser-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-rest-plugin-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-osgi-demo-bundle-2.6-SNAPSHOT.jar
+>>>>extracting callgraph info for struts2-osgi-admin-bundle-2.6-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  spring-data-redis
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for spring-data-redis-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  gitlab-plugin
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for gitlab-plugin-1.5.16-SNAPSHOT.jar
+>>>>extracting callgraph info for gitlab-plugin-1.5.16-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  android-maven-plugin
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for android-maven-plugin-4.6.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 19
+analyzed projects count: 9
+analyzed jars count: 138
+missed projects: ['google-http-java-client', 'schema-registry', 'guacamole-client', 'commonmark-java', 'paho.mqtt.java', 'OpenID-Connect-Java-Spring-Server', 'flexmark-java', 'camunda-bpm-platform', 'FXGL', 'honest-profiler']
+all time used: 541.6146256923676 s
+===============================

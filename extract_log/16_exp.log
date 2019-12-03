@@ -1,0 +1,658 @@
+nohup: ignoring input
+>>>>extracting method info of args4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:2008ms
+>>>>extracting method info of vertx-web...
+>>>>writing to csv files...
+>>>>done.
+excute time:4598ms
+>>>>extracting method info of light-admin...
+>>>>writing to csv files...
+>>>>done.
+excute time:2811ms
+>>>>extracting method info of hector...
+>>>>writing to csv files...
+>>>>done.
+excute time:8372ms
+>>>>extracting method info of univocity-parsers...
+>>>>writing to csv files...
+>>>>done.
+excute time:10771ms
+>>>>extracting method info of jolokia...
+>>>>writing to csv files...
+>>>>done.
+excute time:8601ms
+>>>>extracting method info of metron...
+>>>>writing to csv files...
+>>>>done.
+excute time:18390ms
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>Project No: 1
+>>>>extracting infomation for  args4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for args4j-2.34-SNAPSHOT.jar
+>>>>extracting callgraph info for args4j-tools-2.34-SNAPSHOT.jar
+>>>>extracting callgraph info for args4j-tools-2.34-SNAPSHOT-all.jar
+>>>>extracting callgraph info for args4j-maven-plugin-2.34-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  vertx-web
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 22 jars
+>>>>extracting callgraph info for vertx-web-client-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-api-service-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-sstore-cookie-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-graphql-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-common-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-httl-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-rocker-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-rocker-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-jade-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-jade-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-pebble-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-pebble-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-freemarker-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-freemarker-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-mvel-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-mvel-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-thymeleaf-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-templ-thymeleaf-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-handlebars-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph info for vertx-web-templ-handlebars-4.0.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for vertx-web-api-contract-4.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  light-admin
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for lightadmin-sandbox-classes.jar
+>>>>extracting callgraph info for lightadmin-1.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for lightadmin-1.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  hector
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for hector-object-mapper-3.1-11-SNAPSHOT.jar
+>>>>extracting callgraph info for hector-core-2.0-1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  univocity-parsers
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for univocity-parsers-2.8.4-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  jolokia
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 22 jars
+>>>>extracting callgraph info for jolokia-client-java-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-client-javascript-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-client-javascript-1.6.3-SNAPSHOT-compressed.jar
+>>>>extracting callgraph info for jolokia-jmx-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-it-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-it-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-jsr160-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-osgi-bundle-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-jsr160-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-osgi-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-core-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-mule-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-mule-1.6.3-SNAPSHOT-agent.jar
+>>>>extracting callgraph info for jolokia-jmx-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-spring-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-spring-1.6.3-SNAPSHOT-plugin.jar
+>>>>extracting callgraph info for jolokia-jvm-1.6.3-SNAPSHOT-agent.jar
+>>>>extracting callgraph info for jolokia-jvm-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph info for jolokia-jsr160-1.6.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  metron
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 59 jars
+>>>>extracting callgraph info for metron-statistics-0.7.2.jar
+>>>>extracting callgraph info for metron-statistics-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-maas-common-0.7.2.jar
+>>>>extracting callgraph info for metron-profiler-spark-0.7.2.jar
+>>>>extracting callgraph info for metron-profiler-spark-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-profiler-repl-0.7.2.jar
+>>>>extracting callgraph info for metron-profiler-repl-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-profiler-common-0.7.2.jar
+>>>>extracting callgraph info for metron-profiler-storm-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-profiler-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-maas-service-0.7.2.jar
+>>>>extracting callgraph info for metron-maas-service-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-profiler-client-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-profiler-client-0.7.2.jar
+>>>>extracting callgraph info for metron-hbase-common-0.7.2.jar
+>>>>extracting callgraph info for metron-storm-kafka-override-0.7.2.jar
+>>>>extracting callgraph info for metron-storm-kafka-override-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-pcap-0.7.2.jar
+>>>>extracting callgraph info for metron-solr-storm-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-solr-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-solr-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-solr-common-0.7.2.jar
+>>>>extracting callgraph info for metron-job-0.7.2.jar
+>>>>extracting callgraph info for metron-common-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-elasticsearch-common-0.7.2.jar
+>>>>extracting callgraph info for metron-elasticsearch-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-elasticsearch-storm-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-pcap-backend-0.7.2.jar
+>>>>extracting callgraph info for metron-pcap-backend-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-common-0.7.2.jar
+>>>>extracting callgraph info for metron-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-zookeeper-0.7.2.jar
+>>>>extracting callgraph info for metron-writer-common-0.7.2.jar
+>>>>extracting callgraph info for metron-writer-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-writer-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-hbase-client-0.7.2.jarException in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOfRange(Arrays.java:4030)
+	at java.base/java.lang.StringLatin1.newString(StringLatin1.java:715)
+	at java.base/java.lang.StringBuilder.toString(StringBuilder.java:448)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:83)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3745)
+	at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:172)
+	at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:538)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:174)
+	at gr.gousiosg.javacg.stat.JCallGraph$$Lambda$5/0x0000000840062c40.apply(Unknown Source)
+	at java.base/java.util.stream.ReduceOps$1ReducingSink.accept(ReduceOps.java:80)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of spring-data-rest...
+>>>>writing to csv files...
+>>>>done.
+excute time:5922ms
+>>>>extracting method info of glowroot...
+>>>>writing to csv files...
+>>>>done.
+excute time:22664ms
+>>>>extracting method info of xmemcached...
+>>>>writing to csv files...
+>>>>done.
+excute time:6376ms
+>>>>extracting method info of fscrawler...
+>>>>writing to csv files...
+>>>>done.
+excute time:4128ms
+>>>>extracting method info of hibernate-validator...
+>>>>writing to csv files...
+>>>>done.
+excute time:10540ms
+Jar file /root/repos/repos16/hibernate-validator/performance/target/hibernate-validator-performance-.jar does not exist
+Error while processing jar: /root/repos/repos16/hibernate-validator/performance/target/hibernate-validator-performance-.jar
+java.nio.file.NoSuchFileException: /root/repos/repos16/hibernate-validator/performance/target/hibernate-validator-performance-.jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:145)
+	at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1763)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1225)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:727)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:844)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:247)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:69)
+>>>>extracting method info of polyglot-maven...
+>>>>writing to csv files...
+>>>>done.
+excute time:6696ms
+>>>>extracting method info of zeebe...
+>>>>writing to csv files...
+>>>>done.
+excute time:12053ms
+>>>>extracting method info of dynjs...
+>>>>writing to csv files...
+>>>>done.
+excute time:6513ms
+
+>>>>extracting callgraph info for metron-hbase-client-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-storm-kafka-0.7.2.jar
+>>>>extracting callgraph info for metron-hbase-server-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-hbase-server-0.7.2.jar
+>>>>extracting callgraph info for metron-indexing-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-indexing-common-0.7.2.jar
+>>>>extracting callgraph info for metron-indexing-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-enrichment-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-enrichment-common-0.7.2.jar
+>>>>extracting callgraph info for metron-enrichment-storm-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-enrichment-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-parsing-storm-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-parsing-storm-0.7.2.jar
+>>>>extracting callgraph info for metron-parsers-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-parsers-0.7.2.jar
+>>>>extracting callgraph info for metron-parsers-common-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-parsers-common-0.7.2.jar
+>>>>extracting callgraph info for metron-data-management-0.7.2.jar
+>>>>extracting callgraph info for metron-data-management-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-management-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-management-0.7.2.jar
+>>>>extracting callgraph info for metron-performance-0.7.2-uber.jar
+>>>>extracting callgraph info for metron-performance-0.7.2.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  spring-data-rest
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for spring-data-rest-webmvc-3.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-data-rest-hal-explorer-3.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-data-rest-hal-browser-3.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-data-rest-core-3.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  glowroot
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for glowroot-common2-0.13.5.jar
+>>>>extracting callgraph info for glowroot-wire-api-0.13.5.jar
+>>>>extracting callgraph info for glowroot-common-0.13.5.jar
+>>>>extracting callgraph info for glowroot-build-checker-jdk6-0.13.5.jar
+>>>>extracting callgraph info for glowroot-build-license-bundle-0.13.5.jar
+>>>>extracting callgraph info for glowroot-build-error-prone-jdk6-0.13.5.jar
+>>>>extracting callgraph info for glowroot-agent-api-0.13.5.jar
+>>>>extracting callgraph info for glowroot-agent-core-unshaded-0.13.5.jar
+>>>>extracting callgraph info for glowroot-agent-bytecode-api-0.13.5.jar
+>>>>extracting callgraph info for glowroot-agent-plugin-api-0.13.5.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  xmemcached
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for xmemcached-1.2.6.1.jar
+>>>>extracting callgraph info for xmemcached-2.4.7-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  fscrawler
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 18 jars
+>>>>extracting callgraph info for fscrawler-it-common-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-elasticsearch-client-base-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-elasticsearch-client-v6-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-elasticsearch-client-v7-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-elasticsearch-client-v5-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-settings-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-framework-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-beans-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-core-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-rest-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-crawler-fs-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-crawler-abstract-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-crawler-ssh-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-tika-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-cli-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-es6-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-es7-2.7-SNAPSHOT.jar
+>>>>extracting callgraph info for fscrawler-es5-2.7-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  hibernate-validator
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 17 jars
+>>>>extracting callgraph info for hibernate-validator-performance-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-performance-${validator}.jar
+>>>>extracting callgraph info for hibernate-validator-cdi-6.0.16.Final.jar
+>>>>extracting callgraph info for hibernate-validator-6.0.16.Final.jar
+>>>>extracting callgraph info for hibernate-validator-cdi-6.0.17.Final.jar
+>>>>extracting callgraph info for hibernate-validator-6.0.17.Final.jar
+>>>>extracting callgraph info for hibernate-validator-cdi-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-cdi-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-annotation-processor-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator.jar
+>>>>extracting callgraph info for hibernate-validator-cdi-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-tck-runner-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-documentation-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-build-config-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph info for hibernate-validator-6.1.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  polyglot-maven
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for polyglot-maven-plugin-0.4.5-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  zeebe
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for zeebe-build-tools-0.22.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  dynjs
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for dynjs.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>extracting method info of vlcj...
+>>>>writing to csv files...
+>>>>done.
+excute time:5905ms
+>>>>extracting method info of Recaf...
+>>>>writing to csv files...
+>>>>done.
+excute time:5883ms
+>>>>extracting method info of restfb...
+>>>>writing to csv files...
+>>>>done.
+excute time:11749ms
+>>>>extracting method info of log4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:7097ms
+
+
+>>>>Project No: 16
+>>>>extracting infomation for  vlcj
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for vlcj-4.3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 17
+>>>>extracting infomation for  Recaf
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for recaf-1.15.8.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 18
+>>>>extracting infomation for  restfb
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for restfb-3.0.0.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 19
+>>>>extracting infomation for  log4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for log4j-1.2.18-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 28
+analyzed projects count: 19
+analyzed jars count: 171
+missed projects: ['Essentials', 'aws-sdk-android', 'mssql-jdbc', 'spring-roo', 'egit-github', 'zemberek-nlp', 'dependencies', 'pcap4j', 'jnr-ffi']
+all time used: 2142.762186527252 s
+===============================

@@ -1,0 +1,597 @@
+nohup: ignoring input
+>>>>extracting method info of blueflood...
+>>>>writing to csv files...
+>>>>done.
+excute time:4546ms
+>>>>extracting method info of cxf...
+>>>>writing to csv files...
+>>>>done.
+excute time:35779ms
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 1
+>>>>extracting infomation for  blueflood
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for blueflood-cloudfiles-2.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for blueflood-http-2.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for blueflood-rollupTools-2.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for blueflood-core-2.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for blueflood-elasticsearch-2.1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  cxf
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 98 jars
+>>>>extracting callgraph info for cxf-services-wsn-api-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-services-wsn-core-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-services-wsn-osgi-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-services-ws-discovery-service-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-services-ws-discovery-api-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-services-sts-core-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-http-sci-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-swagger-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-mp-client-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-common-openapi-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-client-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-oauth2-saml-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-oauth2-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-oauth-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-xml-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-sso-oidc-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-sso-saml-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-http-signature-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-cors-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-jose-jaxrs-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-security-jose-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-sse-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-swagger-ui-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-microprofile-openapi-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-service-description-openapi-v3-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-json-basic-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-reactivestreams-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-providers-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-reactor-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-rx2-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-rx-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-rs-extension-search-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-security-saml-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-features-metrics-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-features-logging-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-features-throttling-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-features-clustering-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-databinding-aegis-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-databinding-jaxb-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-bindings-xml-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-bindings-soap-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-bindings-corba-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-bindings-coloc-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-hc-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-udp-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-undertow-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-local-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-websocket-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-jms-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-jetty-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-netty-client-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-netty-server-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-transports-http-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-frontend-jaxrs-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-frontend-js-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-frontend-simple-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-frontend-jaxws-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-mex-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-policy-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-rm-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-transfer-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-eventing-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-addr-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-ws-security-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-wsdl-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-security-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-management-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-rt-javascript-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-karaf-commands-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-wsdl-validator-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-java2swagger-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-java2ws-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-wadl2java-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-codegen-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-corbatools-maven-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-jaxws-javafirst-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-jaxws-wsdlfirst-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-jaxrs-service-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-java2wadl-plugin-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-core-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-wsdlto-databinding-jaxb-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-misctools-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-wsdlto-frontend-jaxws-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-wsdlto-frontend-javascript-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-wsdlto-core-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-common-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-wadlto-jaxrs-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-corba-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-java2ws-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-tools-validator-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-integration-jca-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-integration-cdi-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-integration-tracing-opentracing-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-integration-tracing-brave-3.4.0-SNAPSHOT.jar>>>>extracting method info of easymock...
+>>>>writing to csv files...
+>>>>done.
+excute time:2102ms
+>>>>extracting method info of spring-cloud-consul...
+>>>>writing to csv files...
+>>>>done.
+excute time:1427ms
+>>>>extracting method info of xdocreport...
+>>>>writing to csv files...
+>>>>done.
+excute time:8309ms
+>>>>extracting method info of consulo...
+>>>>writing to csv files...
+>>>>done.
+excute time:53656ms
+
+>>>>extracting callgraph info for cxf-spring-boot-starter-jaxws-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-spring-boot-autoconfigure-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cxf-spring-boot-starter-jaxrs-3.4.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  easymock
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for easymock-4.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  spring-cloud-consul
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for spring-cloud-consul-config-2.2.1.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-consul-discovery-2.2.1.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-consul-core-2.2.1.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-consul-binder-2.2.1.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-consul-sample-2.2.1.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  xdocreport
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 33 jars
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.fop.docx-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.fop-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.javaclient-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.rest-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.fop.odt-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.ws-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.api-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.shared-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.template-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.template.velocity-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.template.freemarker-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.core-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.odt.odfdom-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.docx.docx4j-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.converter.docx.xwpf-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.pptx-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.tools-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.ods-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.textstyling.wiki-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.odp-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.odt-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document.docx-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.document-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.openoffice.tools.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.reporting.server-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.reporting-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.converter.server-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.remoting.converter-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.itext.extension-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.struts2.views.xdocreport-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.xdocreport.itext5.extension-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph info for fr.opensagres.web.servlet.view.xdocreport-2.0.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  consulo
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 157 jars
+>>>>extracting callgraph info for consulo-sand-language-plugin-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-disposer-impl.jar
+>>>>extracting callgraph info for consulo-lvcs-impl.jar
+>>>>extracting callgraph info for consulo-dvcs-impl.jar
+>>>>extracting callgraph info for consulo-vcs-api.jar
+>>>>extracting callgraph info for consulo-indexing-impl.jar
+>>>>extracting callgraph info for consulo-vcs-impl.jar
+>>>>extracting callgraph info for consulo-localize-api.jar
+>>>>extracting callgraph info for consulo-util-rmi.jar
+>>>>extracting callgraph info for consulo-dvcs-api.jar
+>>>>extracting callgraph info for consulo-compiler-api.jar
+>>>>extracting callgraph info for consulo-diff-api.jar
+>>>>extracting callgraph info for consulo-logging-api.jar
+>>>>extracting callgraph info for consulo-disposer-api.jar
+>>>>extracting callgraph info for consulo-xcoverage-impl.jar
+>>>>extracting callgraph info for consulo-diff-impl.jar
+>>>>extracting callgraph info for consulo-async-api.jar
+>>>>extracting callgraph info for consulo-lang-impl.jar
+>>>>extracting callgraph info for consulo-analysis-impl.jar
+>>>>extracting callgraph info for consulo-ui-api-shared.jar
+>>>>extracting callgraph info for consulo-desktop-util-awt.jar
+>>>>extracting callgraph info for consulo-xdebugger-impl.jar
+>>>>extracting callgraph info for consulo-external-system-impl.jar
+>>>>extracting callgraph info for consulo-external-system-api.jar
+>>>>extracting callgraph info for consulo-annotations.jar
+>>>>extracting callgraph info for consulo-vcs-log-graph-api.jar
+>>>>extracting callgraph info for consulo-logging-log4j2-impl.jar
+>>>>extracting callgraph info for consulo-xdebugger-api.jar
+>>>>extracting callgraph info for consulo-built-in-server-impl.jar
+>>>>extracting callgraph info for consulo-compiler-impl.jar
+>>>>extracting callgraph info for consulo-indexing-api.jar
+>>>>extracting callgraph info for consulo-graph-api.jar
+>>>>extracting callgraph info for consulo-ui-api.jar
+>>>>extracting callgraph info for consulo-trash-can.jar
+>>>>extracting callgraph info for consulo-platform-base-plugin.jar
+>>>>extracting callgraph info for consulo-analysis-api.jar
+>>>>extracting callgraph info for consulo-vcs-api-core.jar
+>>>>extracting callgraph info for consulo-remote-servers-impl.jar
+>>>>extracting callgraph info for consulo-desktop-awt-hacking.jar
+>>>>extracting callgraph info for consulo-injecting-api.jar
+>>>>extracting callgraph info for consulo-external-storage-impl.jar
+>>>>extracting callgraph info for consulo-editor-ui-api.jar
+>>>>extracting callgraph info for consulo-vcs-log-impl.jar
+>>>>extracting callgraph info for consulo-util.jar
+>>>>extracting callgraph info for consulo-usage-view.jar
+>>>>extracting callgraph info for consulo-editor-ui-ex.jar
+>>>>extracting callgraph info for consulo-lang-api.jar
+>>>>extracting callgraph info for consulo-platform-impl.jar
+>>>>extracting callgraph info for consulo-core-impl.jar
+>>>>extracting callgraph info for consulo-logging-slf4j-binding-impl.jar
+>>>>extracting callgraph info for consulo-remote-servers-api.jar
+>>>>extracting callgraph info for consulo-remote-servers-agent-rt.jar
+>>>>extracting callgraph info for consulo-injecting-pico-impl.jar
+>>>>extracting callgraph info for consulo-project-model-impl.jar>>>>extracting method info of lambda...
+>>>>writing to csv files...
+>>>>done.
+excute time:6639ms
+>>>>extracting method info of eclipse.jdt.ls...
+>>>>writing to csv files...
+>>>>done.
+excute time:13401ms
+
+>>>>extracting callgraph info for consulo-graph-impl.jar
+>>>>extracting callgraph info for consulo-project-model-api.jar
+>>>>extracting callgraph info for consulo-core-api.jar
+>>>>extracting callgraph info for consulo-lvcs-api.jar
+>>>>extracting callgraph info for consulo-vcs-log-graph-impl.jar
+>>>>extracting callgraph info for consulo-platform-api.jar
+>>>>extracting callgraph info for consulo-vcs-log-api.jar
+>>>>extracting callgraph info for consulo-xcoverage-data.jar
+>>>>extracting callgraph info for consulo-language-editor-api.jar
+>>>>extracting callgraph info for consulo-ui-impl.jar
+>>>>extracting callgraph info for consulo-built-in-server-api.jar
+>>>>extracting callgraph info for consulo-platform-desktop-plugin.jar
+>>>>extracting callgraph info for consulo-desktop-platform-impl.jar
+>>>>extracting callgraph info for consulo-desktop-lang-impl.jar
+>>>>extracting callgraph info for consulo-desktop-graph-impl.jar
+>>>>extracting callgraph info for consulo-desktop-ui-impl.jar
+>>>>extracting callgraph info for consulo-desktop-ui-laf-impl.jar
+>>>>extracting callgraph info for consulo-container-api.jar
+>>>>extracting callgraph info for consulo-desktop-bootstrap.jar
+>>>>extracting callgraph info for consulo-container-impl.jar
+>>>>extracting callgraph info for consulo-bootstrap.jar
+>>>>extracting callgraph info for consulo-util-rt.jar
+>>>>extracting callgraph info for consulo-platform-desktop-plugin-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-sand-language-plugin-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-platform-web-plugin-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-platform-base-plugin-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-injecting-pico-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-injecting-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-async-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-dvcs-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo.nunit-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo.nunit-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-ui-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-lang-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-xcoverage-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-editor-ui-ex-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-external-system-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-annotation-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-project-model-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-indexing-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-remote-servers-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-graph-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-project-model-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-platform-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-lvcs-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-logging-slf4j-binding-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-logging-log4j2-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-logging-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-log-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-external-storage-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-xdebugger-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-indexing-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-built-in-server-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-util-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-diff-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-compiler-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-xcoverage-data-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-annotations-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-remote-servers-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-analysis-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-dvcs-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-log-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-lvcs-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-ui-api-shared-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-graph-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-disposer-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-editor-ui-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-compiler-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-core-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-usage-view-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-diff-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-log-graph-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-platform-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-ui-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-xdebugger-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-log-graph-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-localize-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-disposer-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-util-rmi-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-external-system-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-built-in-server-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-vcs-api-core-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-analysis-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-trash-can-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-language-editor-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-core-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-lang-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-remote-servers-agent-rt-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-util-rt-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-bootstrap-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-container-api-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-container-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-lang-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-ui-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-platform-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-ui-laf-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-graph-impl-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-bootstrap-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-awt-hacking-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-desktop-util-awt-2-SNAPSHOT.jar
+>>>>extracting callgraph info for consulo-bundle-2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  lambda
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for lambda-5.1.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  eclipse.jdt.ls
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for org.eclipse.jdt.ls.core_0.48.0.201911261523.jar
+>>>>extracting callgraph info for org.eclipse.jdt.ls.core_0.48.0.201911261523.jar
+>>>>extracting callgraph info for org.eclipse.jdt.ls.core_0.48.0.201911261523.jar
+>>>>extracting callgraph info for org.eclipse.jdt.ls.core_0.48.0.201911261523.jar
+>>>>extracting callgraph info for org.eclipse.jdt.ls.core-0.48.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.>>>>extracting method info of jfairy...
+>>>>writing to csv files...
+>>>>done.
+excute time:2452ms
+>>>>extracting method info of mvel...
+>>>>writing to csv files...
+>>>>done.
+excute time:7726ms
+>>>>extracting method info of spring-data-neo4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:2679ms
+>>>>extracting method info of swagger-maven-plugin...
+>>>>writing to csv files...
+>>>>done.
+excute time:2136ms
+>>>>extracting method info of ff4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:8248ms
+>>>>extracting method info of findbugs...
+>>>>writing to csv files...
+>>>>done.
+excute time:20495ms
+>>>>extracting method info of commons-io...
+>>>>writing to csv files...
+>>>>done.
+excute time:4525ms
+>>>>extracting method info of hppc...
+>>>>writing to csv files...
+>>>>done.
+excute time:12174ms
+>>>>extracting method info of elide...
+>>>>writing to csv files...
+>>>>done.
+excute time:4992ms
+>>>>extracting method info of openhtmltopdf...
+>>>>writing to csv files...
+>>>>done.
+excute time:7078ms
+>>>>extracting method info of nodebox...
+>>>>writing to csv files...
+>>>>done.
+excute time:4045ms
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  jfairy
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for jfairy-0.6.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  mvel
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for mvel2-2.4.5-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  spring-data-neo4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for spring-data-neo4j-5.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  swagger-maven-plugin
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for swagger-maven-plugin-3.1.9-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  ff4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 28 jars
+>>>>extracting callgraph info for ff4j-webapi-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-strategy-drools-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-jmx-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-couchbase-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-consul-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-hbase-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-hazelcast-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-cli-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-aws-dynamodb-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-ignite-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-core-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-couchdb-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-redis-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-utils-json-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-neo4j-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-jcache-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-webapi-jersey2x-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-archaius-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-mongodb-v3-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-web-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-ehcache-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-cassandra-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-aws-ssm-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-aop-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-elastic-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-security-spring-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-springjdbc-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph info for ff4j-store-commonsconfig-1.8.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  findbugs
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for findbugs.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  commons-io
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for commons-io-2.7-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 16
+>>>>extracting infomation for  hppc
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 3 jars
+>>>>extracting callgraph info for hppc-benchmarks-0.8.2-SNAPSHOT.jar
+>>>>extracting callgraph info for hppc-0.8.2-SNAPSHOT.jar
+>>>>extracting callgraph info for hppc-template-processor-0.8.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 17
+>>>>extracting infomation for  elide
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 15 jars
+>>>>extracting callgraph info for elide-swagger-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-core-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-spring-boot-autoconfigure-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-spring-boot-starter-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-graphql-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-annotations-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-multiplex-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-noop-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-hibernate3-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-hibernate5-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-inmemorydb-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-hibernate-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-jpa-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-datastore-search-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph info for elide-standalone-4.5.8-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 18
+>>>>extracting infomation for  openhtmltopdf
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 10 jars
+>>>>extracting callgraph info for openhtmltopdf-svg-support-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-objects-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-mathml-support-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-latex-support-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-rtl-support-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-pdfbox-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-slf4j-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-core-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-log4j-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph info for openhtmltopdf-java2d-1.0.2-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 19
+>>>>extracting infomation for  nodebox
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for nodebox-3.0.44.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 25
+analyzed projects count: 19
+analyzed jars count: 368
+missed projects: ['actframework', 'caliper', 'floodlight', 'SikuliX2', 'aws-sdk-java-v2', 'incubator-datasketches-java']
+all time used: 811.9512841701508 s
+===============================

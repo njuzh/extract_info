@@ -1,0 +1,346 @@
+nohup: ignoring input
+>>>>extracting method info of primefaces...
+>>>>writing to csv files...
+>>>>done.
+excute time:8142ms
+>>>>extracting method info of modelmapper...
+>>>>writing to csv files...
+>>>>done.
+excute time:2857ms
+>>>>extracting method info of jooby...
+>>>>writing to csv files...
+>>>>done.
+excute time:4344ms
+>>>>extracting method info of ambari...
+>>>>writing to csv files...
+>>>>done.
+excute time:25011ms
+>>>>extracting method info of java-driver...
+>>>>writing to csv files...
+>>>>done.
+excute time:23002ms
+>>>>extracting method info of find-sec-bugs...
+>>>>writing to csv files...
+>>>>done.
+excute time:4018ms
+>>>>extracting method info of spring-cloud-sleuth...
+>>>>writing to csv files...
+>>>>done.
+excute time:2727ms
+>>>>extracting method info of elasticsearch-river-mongodb...
+>>>>writing to csv files...
+>>>>done.
+excute time:1444ms
+>>>>extracting method info of eclipse-collections...
+>>>>writing to csv files...
+>>>>done.
+excute time:31784ms
+>>>>extracting method info of elephant-bird...
+>>>>writing to csv files...
+>>>>done.
+excute time:3347ms
+>>>>Project No: 1
+>>>>extracting infomation for  primefaces
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for primefaces-8.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  modelmapper
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 8 jars
+>>>>extracting callgraph info for modelmapper-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-jackson-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-dagger-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-spring-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-guice-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-protobuf-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-jooq-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph info for modelmapper-gson-2.3.6-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  jooby
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 24 jars
+>>>>extracting callgraph info for jooby-utow-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-pebble-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-run-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-jdbi-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-maven-plugin-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-jwt-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-rocker-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-jetty-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-gradle-plugin-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-archetype-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-spring-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-netty-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-banner-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-hibernate-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-hikari-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-handlebars-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-cli-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-apt-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-weld-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-guice-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-jackson-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-flyway-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-freemarker-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph info for jooby-2.3.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  ambari
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for ambari-views-3.0.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  java-driver
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for java-driver-mapper-processor-4.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for java-driver-core-shaded-4.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for java-driver-core-4.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for java-driver-query-builder-4.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for java-driver-mapper-runtime-4.4.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  find-sec-bugs
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for findsecbugs-samples-deps-1.11.0-SNAPSHOT.jar
+>>>>extracting callgraph info for findsecbugs-plugin-1.11.0-SNAPSHOT.jar
+>>>>extracting callgraph info for findsecbugs-samples-java-1.11.0-SNAPSHOT.jar
+>>>>extracting callgraph info for findsecbugs-samples-kotlin-1.11.0-SNAPSHOT.jar
+>>>>extracting callgraph info for findsecbugs-samples-jsp-1.11.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  spring-cloud-sleuth
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 8 jars
+>>>>extracting callgraph info for spring-cloud-sleuth-core-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-websocket-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-zipkin-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-ribbon-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-messaging-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-sample-feign-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-sleuth-zipkin-2.2.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  elasticsearch-river-mongodb
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for elasticsearch-river-mongodb-2.0.12-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  eclipse-collections
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 7 jars
+>>>>extracting callgraph info for eclipse-collections-api-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for org.eclipse.collections-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for org.eclipse.collections_10.1.0.v20190712-0416.jar
+>>>>extracting callgraph info for eclipse-collections-forkjoin-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for eclipse-collections-code-generator-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for eclipse-collections-code-generator-maven-plugin-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph info for eclipse-collections-10.1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  elephant-bird
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 12 jars
+>>>>extracting callgraph info for elephant-bird-2.1.10.jar
+>>>>extracting callgraph info for elephant-bird-2.1.9.jar
+>>>>extracting callgraph info for elephant-bird-2.2.3.jar
+>>>>extracting callgraph info for elephant-bird-2.1.8.jar
+>>>>extracting callgraph info for elephant-bird-2.1.5.jar
+>>>>extracting callgraph info for elephant-bird-2.2.1.jar
+>>>>extracting callgraph info for elephant-bird-2.1.6.jar
+>>>>extracting callgraph info for elephant-bird-2.2.2.jar
+>>>>extracting callgraph info for elephant-bird-2.1.11.jar
+>>>>extracting callgraph info for elephant-bird-2.2.0.jar
+>>>>extracting callgraph info for elephant-bird-2.1.7.jar
+>>>>extracting callgraph info for elephant-bird-hadoop-compat-4.17-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>extracting method info of pi4j...
+>>>>writing to csv files...
+>>>>done.
+excute time:6599ms
+>>>>extracting method info of spring-data-mongodb...
+>>>>writing to csv files...
+>>>>done.
+excute time:8675ms
+>>>>extracting method info of pushy...
+>>>>writing to csv files...
+>>>>done.
+excute time:2377ms
+>>>>extracting method info of hawtio...
+>>>>writing to csv files...
+>>>>done.
+excute time:3299ms
+>>>>extracting method info of ttorrent...
+>>>>writing to csv files...
+>>>>done.
+excute time:2724ms
+
+
+>>>>Project No: 11
+>>>>extracting infomation for  pi4j
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 6 jars
+>>>>extracting callgraph info for pi4j-gpio-extension-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for pi4j-core-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for pi4j-device-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for pi4j-device.jar
+>>>>extracting callgraph info for pi4j-gpio-extension.jar
+>>>>extracting callgraph info for pi4j-core.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  spring-data-mongodb
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for spring-data-mongodb-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  pushy
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 4 jars
+>>>>extracting callgraph info for pushy-dropwizard-metrics-listener-0.13.11-SNAPSHOT.jar
+>>>>extracting callgraph info for pushy-benchmark-0.13.11-SNAPSHOT.jar
+>>>>extracting callgraph info for pushy-micrometer-metrics-listener-0.13.11-SNAPSHOT.jar
+>>>>extracting callgraph info for pushy-0.13.11-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  hawtio
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 49 jars
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-junit-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-maven-plugin-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-springboot-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-springboot-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-plugin-mbean-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-app-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-app-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-log-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-log-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-ide-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-local-jvm-mbean-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-local-jvm-mbean-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-ide-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-plugin-mbean-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-embedded-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-log-osgi-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-osgi-jmx-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-springboot-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-karaf-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-util-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-system-2.9-SNAPSHOT.jar
+>>>>extracting callgraph info for hawtio-core-2.9-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  ttorrent
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 27 jars
+>>>>extracting callgraph info for ttorrent-client-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-network-1.0.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-network-1.0.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-network-1.0.jar
+>>>>extracting callgraph info for ttorrent-tracker-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-client-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-cli-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-cli-1.3.0-SNAPSHOT-shaded.jar
+>>>>extracting callgraph info for ttorrent-network-1.0.jar
+>>>>extracting callgraph info for ttorrent-tracker-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-client-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-tracker-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-bencoding-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph info for ttorrent-common-1.3.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 22
+analyzed projects count: 15
+analyzed jars count: 159
+missed projects: ['kubernetes-plugin', 'fast-serialization', 'datumbox-framework', 'openhab2-addons', 'streamex', 'AsciidocFX', 'handlebars.java']
+all time used: 382.1834206581116 s
+===============================

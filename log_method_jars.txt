@@ -51,3 +51,83 @@ analyzed projects count: 20
 missed projects: ['brave', 'Gaffer']
 all time used: 1752.9004719257355s
 ===============================
+===============================
+experiment NO: 8
+experiment time: Wed Nov 20 01:44:51 2019
+all projects count:18
+analyzed projects count: 12
+missed projects: ['morphia', 'classgraph', 'seldon-server', 'secor', 'OpenTripPlanner', 'picocli']
+all time used: 256.88124680519104s
+===============================
+===============================
+experiment NO: 9
+experiment time: Wed Nov 20 05:46:01 2019
+all projects count:26
+analyzed projects count: 15
+missed projects: ['javacpp-presets', 'BroadleafCommerce', 'ambrose', 'ha-bridge', 'configuration-as-code-plugin', 'google-cloud-java', 'lanterna', 'restcountries', 'blueprints', 'kafka-rest', 'HotswapAgent']
+all time used: 882.3438878059387s
+===============================
+===============================
+experiment NO: 10
+experiment time: Wed Nov 20 12:02:33 2019
+all projects count:22
+analyzed projects count: 15
+missed projects: ['kubernetes-plugin', 'fast-serialization', 'datumbox-framework', 'openhab2-addons', 'streamex', 'AsciidocFX', 'handlebars.java']
+all time used: 382.1834206581116s
+===============================
+===============================
+experiment NO: 11
+experiment time: Wed Nov 20 14:44:45 2019
+all projects count:19
+analyzed projects count: 9
+missed projects: ['google-http-java-client', 'schema-registry', 'guacamole-client', 'commonmark-java', 'paho.mqtt.java', 'OpenID-Connect-Java-Spring-Server', 'flexmark-java', 'camunda-bpm-platform', 'FXGL', 'honest-profiler']
+all time used: 541.6146256923676s
+===============================
+===============================
+experiment NO: 12
+experiment time: Thu Nov 21 02:50:33 2019
+all projects count:23
+analyzed projects count: 12
+missed projects: ['pitest', 'tlaplus', 'servicecomb-java-chassis', 'maven-git-commit-id-plugin', 'seyren', 'UniversalMediaServer', 'kubernetes-client', 'parquet-mr', 'tinkerpop', 'servicecomb-pack', 'pf4j']
+all time used: 367.7818148136139s
+===============================
+===============================
+experiment NO: 13
+experiment time: Sat Nov 23 02:50:41 2019
+all projects count:27
+analyzed projects count: 19
+missed projects: ['strimzi-kafka-operator', 'repo', 'httpcomponents-client', 'data-algorithms-book', 'openmrs-core', 'google-api-java-client', 'Android-Cookbook-Examples', 'selendroid']
+all time used: 1775.3707423210144s
+===============================
+===============================
+experiment NO: 14
+experiment time: Tue Nov 26 02:11:35 2019
+all projects count:27
+analyzed projects count: 18
+missed projects: ['accumulo', 'logging-log4j2', 'rabbitmq-java-client', 'Nukkit', 'JGroups', 'jgit', 'flow-platform', 'pdfsam', 'PretendYoureXyzzy']
+all time used: 1032.1556367874146s
+===============================
+===============================
+experiment NO: 15
+experiment time: Tue Nov 26 10:06:00 2019
+all projects count:24
+analyzed projects count: 16
+missed projects: ['quickstart', 'pacbot', 'SecurityShepherd', 'bookkeeper', 'activejdbc', 'pgjdbc', 'pigeon', 'Payara']
+all time used: 1115.8190801143646s
+===============================
+===============================
+experiment NO: 16
+experiment time: Tue Nov 26 14:08:58 2019
+all projects count:28
+analyzed projects count: 19
+missed projects: ['Essentials', 'aws-sdk-android', 'mssql-jdbc', 'spring-roo', 'egit-github', 'zemberek-nlp', 'dependencies', 'pcap4j', 'jnr-ffi']
+all time used: 2142.762186527252s
+===============================
+===============================
+experiment NO: 17
+experiment time: Wed Nov 27 02:55:00 2019
+all projects count:25
+analyzed projects count: 19
+missed projects: ['actframework', 'caliper', 'floodlight', 'SikuliX2', 'aws-sdk-java-v2', 'incubator-datasketches-java']
+all time used: 811.9512841701508s
+===============================
