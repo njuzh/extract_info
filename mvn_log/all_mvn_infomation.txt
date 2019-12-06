@@ -110,3 +110,12 @@ package projects: actframework blueflood cxf easymock caliper spring-cloud-consu
 delete no maven projects: MozStumbler MarkNote ChkBugReport opencensus-java Mindustry blockly-android J2ME-Loader sqoop android_frameworks_base algorithms-sedgewick-wayne JSAT SkyTube restlet-framework-java TestFX TinkersConstruct yodaqa open-liberty spring-hadoop intellij-sdk-docs markor conscrypt pig rskj RSyntaxTextArea
 all time used: 10832.680718421936s
 ===============================
+===============================
+experiment NO: 18
+experiment time: Thu Dec  5 12:17:36 2019
+all projects count: 49
+package projects count: 26
+package projects: imagej cattle java-client-api high-performance-java-persistence restheart jzmq storm-crawler cyberduck cassandra-lucene-index jena takes rome spring-cloud-dataflow esper structr Duke sonar-java Jinq artemis-odb jongo togglz java-cas-client jpmml-evaluator stringtemplate4 github-api manifold
+delete no maven projects: hermes elephantdb java-sdk spacewalk spring-social EnderIO SigPloit dmix json KernelAdiutor fred processing-android tilesfx LuckPerms samza okreplay android-sdk Discord4J Applozic-Android-SDK BoofCV Tower android-test comsat
+all time used: 3316.441024541855s
+===============================

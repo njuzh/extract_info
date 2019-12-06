@@ -1,0 +1,154 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos9/embulk'...
+Cloning into '/root/repos/repos9/HotswapAgent'...
+Cloning into '/root/repos/repos9/jcommander'...
+Cloning into '/root/repos/repos9/blueprints'...
+Cloning into '/root/repos/repos9/javacpp-presets'...
+Cloning into '/root/repos/repos9/optaplanner'...
+Checking out files:  37% (1951/5226)   Checking out files:  38% (1986/5226)   Checking out files:  39% (2039/5226)   Checking out files:  40% (2091/5226)   Checking out files:  41% (2143/5226)   Checking out files:  42% (2195/5226)   Checking out files:  43% (2248/5226)   Checking out files:  44% (2300/5226)   Checking out files:  45% (2352/5226)   Checking out files:  46% (2404/5226)   Checking out files:  47% (2457/5226)   Checking out files:  48% (2509/5226)   Checking out files:  49% (2561/5226)   Checking out files:  50% (2613/5226)   Checking out files:  51% (2666/5226)   Checking out files:  52% (2718/5226)   Checking out files:  53% (2770/5226)   Checking out files:  54% (2823/5226)   Checking out files:  55% (2875/5226)   Checking out files:  56% (2927/5226)   Checking out files:  57% (2979/5226)   Checking out files:  58% (3032/5226)   Checking out files:  59% (3084/5226)   Checking out files:  60% (3136/5226)   Checking out files:  61% (3188/5226)   Checking out files:  62% (3241/5226)   Checking out files:  63% (3293/5226)   Checking out files:  64% (3345/5226)   Checking out files:  65% (3397/5226)   Checking out files:  66% (3450/5226)   Checking out files:  67% (3502/5226)   Checking out files:  68% (3554/5226)   Checking out files:  69% (3606/5226)   Checking out files:  69% (3646/5226)   Checking out files:  70% (3659/5226)   Checking out files:  71% (3711/5226)   Checking out files:  72% (3763/5226)   Checking out files:  73% (3815/5226)   Checking out files:  74% (3868/5226)   Checking out files:  75% (3920/5226)   Checking out files:  76% (3972/5226)   Checking out files:  77% (4025/5226)   Checking out files:  78% (4077/5226)   Checking out files:  79% (4129/5226)   Checking out files:  80% (4181/5226)   Checking out files:  81% (4234/5226)   Checking out files:  82% (4286/5226)   Checking out files:  83% (4338/5226)   Checking out files:  84% (4390/5226)   Checking out files:  85% (4443/5226)   Checking out files:  86% (4495/5226)   Checking out files:  87% (4547/5226)   Checking out files:  88% (4599/5226)   Checking out files:  89% (4652/5226)   Checking out files:  90% (4704/5226)   Checking out files:  91% (4756/5226)   Checking out files:  92% (4808/5226)   Checking out files:  93% (4861/5226)   Checking out files:  94% (4913/5226)   Checking out files:  95% (4965/5226)   Checking out files:  96% (5017/5226)   Checking out files:  97% (5070/5226)   Checking out files:  98% (5122/5226)   Checking out files:  99% (5174/5226)   Checking out files: 100% (5226/5226)   Checking out files: 100% (5226/5226), done.
+Cloning into '/root/repos/repos9/connectbot'...
+Cloning into '/root/repos/repos9/ripme'...
+Cloning into '/root/repos/repos9/calcite'...
+Cloning into '/root/repos/repos9/marytts'...
+Cloning into '/root/repos/repos9/kafka-rest'...
+Cloning into '/root/repos/repos9/android-examples'...
+Cloning into '/root/repos/repos9/WorldEdit'...
+Cloning into '/root/repos/repos9/slf4j'...
+Cloning into '/root/repos/repos9/BroadleafCommerce'...
+Cloning into '/root/repos/repos9/jdbi'...
+Cloning into '/root/repos/repos9/docker-client'...
+Cloning into '/root/repos/repos9/ambry'...
+Cloning into '/root/repos/repos9/KISS'...
+Cloning into '/root/repos/repos9/Resty'...
+Cloning into '/root/repos/repos9/UserLAnd'...
+Cloning into '/root/repos/repos9/AndroidTraining'...
+Checking out files:  80% (5350/6679)   Checking out files:  81% (5410/6679)   Checking out files:  82% (5477/6679)   Checking out files:  83% (5544/6679)   Checking out files:  84% (5611/6679)   Checking out files:  85% (5678/6679)   Checking out files:  86% (5744/6679)   Checking out files:  87% (5811/6679)   Checking out files:  88% (5878/6679)   Checking out files:  89% (5945/6679)   Checking out files:  90% (6012/6679)   Checking out files:  91% (6078/6679)   Checking out files:  92% (6145/6679)   Checking out files:  93% (6212/6679)   Checking out files:  94% (6279/6679)   Checking out files:  95% (6346/6679)   Checking out files:  96% (6412/6679)   Checking out files:  97% (6479/6679)   Checking out files:  98% (6546/6679)   Checking out files:  99% (6613/6679)   Checking out files: 100% (6679/6679)   Checking out files: 100% (6679/6679), done.
+Cloning into '/root/repos/repos9/elassandra'...
+Checking out files:  79% (6954/8777)   Checking out files:  80% (7022/8777)   Checking out files:  81% (7110/8777)   Checking out files:  82% (7198/8777)   Checking out files:  83% (7285/8777)   Checking out files:  84% (7373/8777)   Checking out files:  85% (7461/8777)   Checking out files:  86% (7549/8777)   Checking out files:  87% (7636/8777)   Checking out files:  88% (7724/8777)   Checking out files:  89% (7812/8777)   Checking out files:  90% (7900/8777)   Checking out files:  91% (7988/8777)   Checking out files:  92% (8075/8777)   Checking out files:  93% (8163/8777)   Checking out files:  94% (8251/8777)   Checking out files:  95% (8339/8777)   Checking out files:  96% (8426/8777)   Checking out files:  97% (8514/8777)   Checking out files:  98% (8602/8777)   Checking out files:  99% (8690/8777)   Checking out files: 100% (8777/8777)   Checking out files: 100% (8777/8777), done.
+Cloning into '/root/repos/repos9/remote-desktop-clients'...
+Cloning into '/root/repos/repos9/sqlite-jdbc'...
+Cloning into '/root/repos/repos9/visualvm'...
+Cloning into '/root/repos/repos9/ha-bridge'...
+Cloning into '/root/repos/repos9/google-cloud-java'...
+Checking out files:  69% (7216/10409)   Checking out files:  70% (7287/10409)   Checking out files:  71% (7391/10409)   Checking out files:  72% (7495/10409)   Checking out files:  73% (7599/10409)   Checking out files:  74% (7703/10409)   Checking out files:  75% (7807/10409)   Checking out files:  76% (7911/10409)   Checking out files:  77% (8015/10409)   Checking out files:  78% (8120/10409)   Checking out files:  79% (8224/10409)   Checking out files:  80% (8328/10409)   Checking out files:  81% (8432/10409)   Checking out files:  82% (8536/10409)   Checking out files:  83% (8640/10409)   Checking out files:  84% (8744/10409)   Checking out files:  85% (8848/10409)   Checking out files:  86% (8952/10409)   Checking out files:  87% (9056/10409)   Checking out files:  88% (9160/10409)   Checking out files:  89% (9265/10409)   Checking out files:  90% (9369/10409)   Checking out files:  91% (9473/10409)   Checking out files:  92% (9577/10409)   Checking out files:  93% (9681/10409)   Checking out files:  94% (9785/10409)   Checking out files:  95% (9889/10409)   Checking out files:  96% (9993/10409)   Checking out files:  97% (10097/10409)   Checking out files:  98% (10201/10409)   Checking out files:  99% (10305/10409)   Checking out files: 100% (10409/10409)   Checking out files: 100% (10409/10409), done.
+Cloning into '/root/repos/repos9/open-keychain'...
+Cloning into '/root/repos/repos9/H-Viewer'...
+Cloning into '/root/repos/repos9/drill'...
+Cloning into '/root/repos/repos9/simplenote-android'...
+Cloning into '/root/repos/repos9/RxNetty'...
+Cloning into '/root/repos/repos9/allure2'...
+Cloning into '/root/repos/repos9/protostuff'...
+Cloning into '/root/repos/repos9/configuration-as-code-plugin'...
+Cloning into '/root/repos/repos9/restcountries'...
+Cloning into '/root/repos/repos9/andOTP'...
+Cloning into '/root/repos/repos9/toro'...
+Cloning into '/root/repos/repos9/teavm'...
+Cloning into '/root/repos/repos9/soot'...
+Cloning into '/root/repos/repos9/lanterna'...
+Cloning into '/root/repos/repos9/keepass2android'...
+Cloning into '/root/repos/repos9/ambrose'...
+Cloning into '/root/repos/repos9/docx4j'...
+Cloning into '/root/repos/repos9/google-maps-services-java'...
+Cloning into '/root/repos/repos9/bootique'...
+Cloning into '/root/repos/repos9/genie'...
+Cloning into '/root/repos/repos9/iri'...
+Checking out files:  81% (353/432)   Checking out files:  82% (355/432)   Checking out files:  83% (359/432)   Checking out files:  84% (363/432)   Checking out files:  85% (368/432)   Checking out files:  86% (372/432)   Checking out files:  87% (376/432)   Checking out files:  88% (381/432)   Checking out files:  89% (385/432)   Checking out files:  90% (389/432)   Checking out files:  91% (394/432)   Checking out files:  92% (398/432)   Checking out files:  93% (402/432)   Checking out files:  94% (407/432)   Checking out files:  95% (411/432)   Checking out files:  96% (415/432)   Checking out files:  97% (420/432)   Checking out files:  98% (424/432)   Checking out files:  99% (428/432)   Checking out files: 100% (432/432)   Checking out files: 100% (432/432), done.
+1 https://github.com/embulk/embulk  
+git clone https://github.com/embulk/embulk  
+2 https://github.com/HotswapProjects/HotswapAgent  
+git clone https://github.com/HotswapProjects/HotswapAgent  
+3 https://github.com/cbeust/jcommander  
+git clone https://github.com/cbeust/jcommander  
+4 https://github.com/tinkerpop/blueprints  
+git clone https://github.com/tinkerpop/blueprints  
+5 https://github.com/bytedeco/javacpp-presets  
+git clone https://github.com/bytedeco/javacpp-presets  
+6 https://github.com/kiegroup/optaplanner  
+git clone https://github.com/kiegroup/optaplanner  
+7 https://github.com/connectbot/connectbot  
+git clone https://github.com/connectbot/connectbot  
+8 https://github.com/RipMeApp/ripme  
+git clone https://github.com/RipMeApp/ripme  
+9 https://github.com/apache/calcite  
+git clone https://github.com/apache/calcite  
+10 https://github.com/marytts/marytts  
+git clone https://github.com/marytts/marytts  
+11 https://github.com/confluentinc/kafka-rest  
+git clone https://github.com/confluentinc/kafka-rest  
+12 https://github.com/nisrulz/android-examples  
+git clone https://github.com/nisrulz/android-examples  
+13 https://github.com/EngineHub/WorldEdit  
+git clone https://github.com/EngineHub/WorldEdit  
+14 https://github.com/qos-ch/slf4j  
+git clone https://github.com/qos-ch/slf4j  
+15 https://github.com/BroadleafCommerce/BroadleafCommerce  
+git clone https://github.com/BroadleafCommerce/BroadleafCommerce  
+16 https://github.com/jdbi/jdbi  
+git clone https://github.com/jdbi/jdbi  
+17 https://github.com/spotify/docker-client  
+git clone https://github.com/spotify/docker-client  
+18 https://github.com/linkedin/ambry  
+git clone https://github.com/linkedin/ambry  
+19 https://github.com/Neamar/KISS  
+git clone https://github.com/Neamar/KISS  
+20 https://github.com/Dreampie/Resty  
+git clone https://github.com/Dreampie/Resty  
+21 https://github.com/CypherpunkArmory/UserLAnd  
+git clone https://github.com/CypherpunkArmory/UserLAnd  
+22 https://github.com/mixi-inc/AndroidTraining  
+git clone https://github.com/mixi-inc/AndroidTraining  
+23 https://github.com/strapdata/elassandra  
+git clone https://github.com/strapdata/elassandra  
+24 https://github.com/iiordanov/remote-desktop-clients  
+git clone https://github.com/iiordanov/remote-desktop-clients  
+25 https://github.com/xerial/sqlite-jdbc  
+git clone https://github.com/xerial/sqlite-jdbc  
+26 https://github.com/oracle/visualvm  
+git clone https://github.com/oracle/visualvm  
+27 https://github.com/bwssytems/ha-bridge  
+git clone https://github.com/bwssytems/ha-bridge  
+28 https://github.com/googleapis/google-cloud-java  
+git clone https://github.com/googleapis/google-cloud-java  
+29 https://github.com/open-keychain/open-keychain  
+git clone https://github.com/open-keychain/open-keychain  
+30 https://github.com/PureDark/H-Viewer  
+git clone https://github.com/PureDark/H-Viewer  
+31 https://github.com/apache/drill  
+git clone https://github.com/apache/drill  
+32 https://github.com/Automattic/simplenote-android  
+git clone https://github.com/Automattic/simplenote-android  
+33 https://github.com/ReactiveX/RxNetty  
+git clone https://github.com/ReactiveX/RxNetty  
+34 https://github.com/allure-framework/allure2  
+git clone https://github.com/allure-framework/allure2  
+35 https://github.com/protostuff/protostuff  
+git clone https://github.com/protostuff/protostuff  
+36 https://github.com/jenkinsci/configuration-as-code-plugin  
+git clone https://github.com/jenkinsci/configuration-as-code-plugin  
+37 https://github.com/apilayer/restcountries  
+git clone https://github.com/apilayer/restcountries  
+38 https://github.com/andOTP/andOTP  
+git clone https://github.com/andOTP/andOTP  
+39 https://github.com/eneim/toro  
+git clone https://github.com/eneim/toro  
+40 https://github.com/konsoletyper/teavm  
+git clone https://github.com/konsoletyper/teavm  
+41 https://github.com/Sable/soot  
+git clone https://github.com/Sable/soot  
+42 https://github.com/mabe02/lanterna  
+git clone https://github.com/mabe02/lanterna  
+43 https://github.com/PhilippC/keepass2android  
+git clone https://github.com/PhilippC/keepass2android  
+44 https://github.com/twitter/ambrose  
+git clone https://github.com/twitter/ambrose  
+45 https://github.com/plutext/docx4j  
+git clone https://github.com/plutext/docx4j  
+46 https://github.com/googlemaps/google-maps-services-java  
+git clone https://github.com/googlemaps/google-maps-services-java  
+47 https://github.com/bootique/bootique  
+git clone https://github.com/bootique/bootique  
+48 https://github.com/Netflix/genie  
+git clone https://github.com/Netflix/genie  
+49 https://github.com/iotaledger/iri  
+git clone https://github.com/iotaledger/iri  
+49

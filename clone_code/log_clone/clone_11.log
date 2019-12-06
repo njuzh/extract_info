@@ -1,0 +1,154 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos11/commonmark-java'...
+Cloning into '/root/repos/repos11/gitlab-plugin'...
+Cloning into '/root/repos/repos11/oshi'...
+Cloning into '/root/repos/repos11/AnySoftKeyboard'...
+Cloning into '/root/repos/repos11/FXGL'...
+Checking out files:  98% (840/850)   Checking out files:  99% (842/850)   Checking out files: 100% (850/850)   Checking out files: 100% (850/850), done.
+Cloning into '/root/repos/repos11/SpongeForge'...
+Cloning into '/root/repos/repos11/android-maven-plugin'...
+Cloning into '/root/repos/repos11/flexmark-java'...
+Cloning into '/root/repos/repos11/astyanax'...
+Cloning into '/root/repos/repos11/cqengine'...
+Cloning into '/root/repos/repos11/apps-android-wikipedia'...
+Cloning into '/root/repos/repos11/uaa'...
+Cloning into '/root/repos/repos11/spring-data-redis'...
+Cloning into '/root/repos/repos11/phonegap-plugins'...
+Cloning into '/root/repos/repos11/Silence'...
+Cloning into '/root/repos/repos11/seldon-core'...
+Checking out files:  93% (1536/1636)   Checking out files:  94% (1538/1636)   Checking out files:  95% (1555/1636)   Checking out files:  96% (1571/1636)   Checking out files:  97% (1587/1636)   Checking out files:  98% (1604/1636)   Checking out files:  99% (1620/1636)   Checking out files: 100% (1636/1636)   Checking out files: 100% (1636/1636), done.
+Cloning into '/root/repos/repos11/eclim'...
+Cloning into '/root/repos/repos11/gh4a'...
+Cloning into '/root/repos/repos11/msgpack-java'...
+Cloning into '/root/repos/repos11/codelibrary'...
+Cloning into '/root/repos/repos11/honest-profiler'...
+Cloning into '/root/repos/repos11/selenide'...
+Cloning into '/root/repos/repos11/camunda-bpm-platform'...
+Cloning into '/root/repos/repos11/OpenID-Connect-Java-Spring-Server'...
+Cloning into '/root/repos/repos11/SpongeAPI'...
+Cloning into '/root/repos/repos11/vrapper'...
+Cloning into '/root/repos/repos11/dal'...
+Checking out files:  98% (1676/1705)   Checking out files:  99% (1688/1705)   Checking out files: 100% (1705/1705)   Checking out files: 100% (1705/1705), done.
+Cloning into '/root/repos/repos11/loklak_server'...
+Cloning into '/root/repos/repos11/cgeo'...
+Cloning into '/root/repos/repos11/guacamole-client'...
+Cloning into '/root/repos/repos11/paho.mqtt.java'...
+Cloning into '/root/repos/repos11/Glowstone'...
+Cloning into '/root/repos/repos11/idea-gitignore'...
+Cloning into '/root/repos/repos11/Project-Euler-solutions'...
+Cloning into '/root/repos/repos11/cyclops'...
+Cloning into '/root/repos/repos11/bc-java'...
+Checking out files:  46% (3190/6843)   Checking out files:  47% (3217/6843)   Checking out files:  47% (3223/6843)   Checking out files:  48% (3285/6843)   Checking out files:  49% (3354/6843)   Checking out files:  50% (3422/6843)   Checking out files:  51% (3490/6843)   Checking out files:  52% (3559/6843)   Checking out files:  53% (3627/6843)   Checking out files:  54% (3696/6843)   Checking out files:  55% (3764/6843)   Checking out files:  56% (3833/6843)   Checking out files:  57% (3901/6843)   Checking out files:  58% (3969/6843)   Checking out files:  59% (4038/6843)   Checking out files:  60% (4106/6843)   Checking out files:  61% (4175/6843)   Checking out files:  62% (4243/6843)   Checking out files:  63% (4312/6843)   Checking out files:  64% (4380/6843)   Checking out files:  65% (4448/6843)   Checking out files:  66% (4517/6843)   Checking out files:  67% (4585/6843)   Checking out files:  68% (4654/6843)   Checking out files:  69% (4722/6843)   Checking out files:  70% (4791/6843)   Checking out files:  71% (4859/6843)   Checking out files:  72% (4927/6843)   Checking out files:  73% (4996/6843)   Checking out files:  74% (5064/6843)   Checking out files:  75% (5133/6843)   Checking out files:  76% (5201/6843)   Checking out files:  77% (5270/6843)   Checking out files:  78% (5338/6843)   Checking out files:  79% (5406/6843)   Checking out files:  80% (5475/6843)   Checking out files:  81% (5543/6843)   Checking out files:  82% (5612/6843)   Checking out files:  83% (5680/6843)   Checking out files:  84% (5749/6843)   Checking out files:  85% (5817/6843)   Checking out files:  86% (5885/6843)   Checking out files:  87% (5954/6843)   Checking out files:  88% (6022/6843)   Checking out files:  89% (6091/6843)   Checking out files:  90% (6159/6843)   Checking out files:  91% (6228/6843)   Checking out files:  92% (6296/6843)   Checking out files:  93% (6364/6843)   Checking out files:  94% (6433/6843)   Checking out files:  94% (6491/6843)   Checking out files:  95% (6501/6843)   Checking out files:  96% (6570/6843)   Checking out files:  97% (6638/6843)   Checking out files:  98% (6707/6843)   Checking out files:  99% (6775/6843)   Checking out files: 100% (6843/6843)   Checking out files: 100% (6843/6843), done.
+Cloning into '/root/repos/repos11/schema-registry'...
+Cloning into '/root/repos/repos11/phpinspectionsea'...
+Cloning into '/root/repos/repos11/google-http-java-client'...
+Cloning into '/root/repos/repos11/JDA'...
+Cloning into '/root/repos/repos11/open-event-organizer-android'...
+Cloning into '/root/repos/repos11/psi-probe'...
+Cloning into '/root/repos/repos11/usergrid'...
+Checking out files:  61% (2464/4032)   Checking out files:  62% (2500/4032)   Checking out files:  63% (2541/4032)   Checking out files:  64% (2581/4032)   Checking out files:  65% (2621/4032)   Checking out files:  66% (2662/4032)   Checking out files:  67% (2702/4032)   Checking out files:  68% (2742/4032)   Checking out files:  69% (2783/4032)   Checking out files:  70% (2823/4032)   Checking out files:  71% (2863/4032)   Checking out files:  72% (2904/4032)   Checking out files:  73% (2944/4032)   Checking out files:  74% (2984/4032)   Checking out files:  75% (3024/4032)   Checking out files:  76% (3065/4032)   Checking out files:  77% (3105/4032)   Checking out files:  78% (3145/4032)   Checking out files:  79% (3186/4032)   Checking out files:  80% (3226/4032)   Checking out files:  81% (3266/4032)   Checking out files:  82% (3307/4032)   Checking out files:  83% (3347/4032)   Checking out files:  84% (3387/4032)   Checking out files:  85% (3428/4032)   Checking out files:  86% (3468/4032)   Checking out files:  87% (3508/4032)   Checking out files:  88% (3549/4032)   Checking out files:  89% (3589/4032)   Checking out files:  90% (3629/4032)   Checking out files:  91% (3670/4032)   Checking out files:  92% (3710/4032)   Checking out files:  93% (3750/4032)   Checking out files:  94% (3791/4032)   Checking out files:  95% (3831/4032)   Checking out files:  96% (3871/4032)   Checking out files:  97% (3912/4032)   Checking out files:  98% (3952/4032)   Checking out files:  99% (3992/4032)   Checking out files: 100% (4032/4032)   Checking out files: 100% (4032/4032), done.
+Cloning into '/root/repos/repos11/struts'...
+Cloning into '/root/repos/repos11/photup'...
+Cloning into '/root/repos/repos11/jitsi-videobridge'...
+Cloning into '/root/repos/repos11/jbpm'...
+Cloning into '/root/repos/repos11/grpc-spring-boot-starter'...
+Cloning into '/root/repos/repos11/RedReader'...
+1 https://github.com/atlassian/commonmark-java  
+git clone https://github.com/atlassian/commonmark-java  
+2 https://github.com/jenkinsci/gitlab-plugin  
+git clone https://github.com/jenkinsci/gitlab-plugin  
+3 https://github.com/oshi/oshi  
+git clone https://github.com/oshi/oshi  
+4 https://github.com/AnySoftKeyboard/AnySoftKeyboard  
+git clone https://github.com/AnySoftKeyboard/AnySoftKeyboard  
+5 https://github.com/AlmasB/FXGL  
+git clone https://github.com/AlmasB/FXGL  
+6 https://github.com/SpongePowered/SpongeForge  
+git clone https://github.com/SpongePowered/SpongeForge  
+7 https://github.com/simpligility/android-maven-plugin  
+git clone https://github.com/simpligility/android-maven-plugin  
+8 https://github.com/vsch/flexmark-java  
+git clone https://github.com/vsch/flexmark-java  
+9 https://github.com/Netflix/astyanax  
+git clone https://github.com/Netflix/astyanax  
+10 https://github.com/npgall/cqengine  
+git clone https://github.com/npgall/cqengine  
+11 https://github.com/wikimedia/apps-android-wikipedia  
+git clone https://github.com/wikimedia/apps-android-wikipedia  
+12 https://github.com/cloudfoundry/uaa  
+git clone https://github.com/cloudfoundry/uaa  
+13 https://github.com/spring-projects/spring-data-redis  
+git clone https://github.com/spring-projects/spring-data-redis  
+14 https://github.com/purplecabbage/phonegap-plugins  
+git clone https://github.com/purplecabbage/phonegap-plugins  
+15 https://github.com/SilenceIM/Silence  
+git clone https://github.com/SilenceIM/Silence  
+16 https://github.com/SeldonIO/seldon-core  
+git clone https://github.com/SeldonIO/seldon-core  
+17 https://github.com/ervandew/eclim  
+git clone https://github.com/ervandew/eclim  
+18 https://github.com/slapperwan/gh4a  
+git clone https://github.com/slapperwan/gh4a  
+19 https://github.com/msgpack/msgpack-java  
+git clone https://github.com/msgpack/msgpack-java  
+20 https://github.com/indy256/codelibrary  
+git clone https://github.com/indy256/codelibrary  
+21 https://github.com/jvm-profiling-tools/honest-profiler  
+git clone https://github.com/jvm-profiling-tools/honest-profiler  
+22 https://github.com/selenide/selenide  
+git clone https://github.com/selenide/selenide  
+23 https://github.com/camunda/camunda-bpm-platform  
+git clone https://github.com/camunda/camunda-bpm-platform  
+24 https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server  
+git clone https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server  
+25 https://github.com/SpongePowered/SpongeAPI  
+git clone https://github.com/SpongePowered/SpongeAPI  
+26 https://github.com/vrapper/vrapper  
+git clone https://github.com/vrapper/vrapper  
+27 https://github.com/ctripcorp/dal  
+git clone https://github.com/ctripcorp/dal  
+28 https://github.com/loklak/loklak_server  
+git clone https://github.com/loklak/loklak_server  
+29 https://github.com/cgeo/cgeo  
+git clone https://github.com/cgeo/cgeo  
+30 https://github.com/glyptodon/guacamole-client  
+git clone https://github.com/glyptodon/guacamole-client  
+31 https://github.com/eclipse/paho.mqtt.java  
+git clone https://github.com/eclipse/paho.mqtt.java  
+32 https://github.com/GlowstoneMC/Glowstone  
+git clone https://github.com/GlowstoneMC/Glowstone  
+33 https://github.com/JetBrains/idea-gitignore  
+git clone https://github.com/JetBrains/idea-gitignore  
+34 https://github.com/nayuki/Project-Euler-solutions  
+git clone https://github.com/nayuki/Project-Euler-solutions  
+35 https://github.com/aol/cyclops  
+git clone https://github.com/aol/cyclops  
+36 https://github.com/bcgit/bc-java  
+git clone https://github.com/bcgit/bc-java  
+37 https://github.com/confluentinc/schema-registry  
+git clone https://github.com/confluentinc/schema-registry  
+38 https://github.com/kalessil/phpinspectionsea  
+git clone https://github.com/kalessil/phpinspectionsea  
+39 https://github.com/googleapis/google-http-java-client  
+git clone https://github.com/googleapis/google-http-java-client  
+40 https://github.com/DV8FromTheWorld/JDA  
+git clone https://github.com/DV8FromTheWorld/JDA  
+41 https://github.com/fossasia/open-event-organizer-android  
+git clone https://github.com/fossasia/open-event-organizer-android  
+42 https://github.com/psi-probe/psi-probe  
+git clone https://github.com/psi-probe/psi-probe  
+43 https://github.com/apache/usergrid  
+git clone https://github.com/apache/usergrid  
+44 https://github.com/apache/struts  
+git clone https://github.com/apache/struts  
+45 https://github.com/chrisbanes/photup  
+git clone https://github.com/chrisbanes/photup  
+46 https://github.com/jitsi/jitsi-videobridge  
+git clone https://github.com/jitsi/jitsi-videobridge  
+47 https://github.com/kiegroup/jbpm  
+git clone https://github.com/kiegroup/jbpm  
+48 https://github.com/yidongnan/grpc-spring-boot-starter  
+git clone https://github.com/yidongnan/grpc-spring-boot-starter  
+49 https://github.com/QuantumBadger/RedReader  
+git clone https://github.com/QuantumBadger/RedReader  
+49

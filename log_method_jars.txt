@@ -131,3 +131,11 @@ analyzed projects count: 19
 missed projects: ['actframework', 'caliper', 'floodlight', 'SikuliX2', 'aws-sdk-java-v2', 'incubator-datasketches-java']
 all time used: 811.9512841701508s
 ===============================
+===============================
+experiment NO: 18
+experiment time: Fri Dec  6 02:00:56 2019
+all projects count:26
+analyzed projects count: 20
+missed projects: ['java-client-api', 'restheart', 'cyberduck', 'java-cas-client', 'jpmml-evaluator', 'stringtemplate4']
+all time used: 1058.036614894867s
+===============================

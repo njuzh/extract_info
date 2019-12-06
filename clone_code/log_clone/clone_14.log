@@ -1,0 +1,156 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos14/Singularity'...
+Cloning into '/root/repos/repos14/rabbitmq-java-client'...
+Cloning into '/root/repos/repos14/amidst'...
+Cloning into '/root/repos/repos14/rxjava-jdbc'...
+Cloning into '/root/repos/repos14/s3proxy'...
+Cloning into '/root/repos/repos14/Fetch'...
+Checking out files:  24% (246/1003)   Checking out files:  25% (251/1003)   Checking out files:  26% (261/1003)   Checking out files:  27% (271/1003)   Checking out files:  28% (281/1003)   Checking out files:  29% (291/1003)   Checking out files:  30% (301/1003)   Checking out files:  31% (311/1003)   Checking out files:  32% (321/1003)   Checking out files:  33% (331/1003)   Checking out files:  34% (342/1003)   Checking out files:  35% (352/1003)   Checking out files:  36% (362/1003)   Checking out files:  37% (372/1003)   Checking out files:  38% (382/1003)   Checking out files:  39% (392/1003)   Checking out files:  40% (402/1003)   Checking out files:  41% (412/1003)   Checking out files:  42% (422/1003)   Checking out files:  43% (432/1003)   Checking out files:  44% (442/1003)   Checking out files:  45% (452/1003)   Checking out files:  46% (462/1003)   Checking out files:  47% (472/1003)   Checking out files:  48% (482/1003)   Checking out files:  49% (492/1003)   Checking out files:  50% (502/1003)   Checking out files:  51% (512/1003)   Checking out files:  52% (522/1003)   Checking out files:  53% (532/1003)   Checking out files:  54% (542/1003)   Checking out files:  55% (552/1003)   Checking out files:  56% (562/1003)   Checking out files:  57% (572/1003)   Checking out files:  58% (582/1003)   Checking out files:  59% (592/1003)   Checking out files:  60% (602/1003)   Checking out files:  61% (612/1003)   Checking out files:  62% (622/1003)   Checking out files:  63% (632/1003)   Checking out files:  64% (642/1003)   Checking out files:  65% (652/1003)   Checking out files:  66% (662/1003)   Checking out files:  67% (673/1003)   Checking out files:  68% (683/1003)   Checking out files:  69% (693/1003)   Checking out files:  70% (703/1003)   Checking out files:  71% (713/1003)   Checking out files:  72% (723/1003)   Checking out files:  73% (733/1003)   Checking out files:  74% (743/1003)   Checking out files:  75% (753/1003)   Checking out files:  76% (763/1003)   Checking out files:  77% (773/1003)   Checking out files:  78% (783/1003)   Checking out files:  79% (793/1003)   Checking out files:  80% (803/1003)   Checking out files:  81% (813/1003)   Checking out files:  82% (823/1003)   Checking out files:  83% (833/1003)   Checking out files:  84% (843/1003)   Checking out files:  85% (853/1003)   Checking out files:  86% (863/1003)   Checking out files:  87% (873/1003)   Checking out files:  88% (883/1003)   Checking out files:  89% (893/1003)   Checking out files:  90% (903/1003)   Checking out files:  91% (913/1003)   Checking out files:  92% (923/1003)   Checking out files:  93% (933/1003)   Checking out files:  94% (943/1003)   Checking out files:  95% (953/1003)   Checking out files:  96% (963/1003)   Checking out files:  97% (973/1003)   Checking out files:  98% (983/1003)   Checking out files:  99% (993/1003)   Checking out files: 100% (1003/1003)   Checking out files: 100% (1003/1003), done.
+Cloning into '/root/repos/repos14/jnativehook'...
+Cloning into '/root/repos/repos14/pravega'...
+Cloning into '/root/repos/repos14/autopsy'...
+Checking out files:  27% (2334/8598)   Checking out files:  28% (2408/8598)   Checking out files:  29% (2494/8598)   Checking out files:  30% (2580/8598)   Checking out files:  31% (2666/8598)   Checking out files:  32% (2752/8598)   Checking out files:  33% (2838/8598)   Checking out files:  34% (2924/8598)   Checking out files:  35% (3010/8598)   Checking out files:  35% (3020/8598)   Checking out files:  36% (3096/8598)   Checking out files:  36% (3161/8598)   Checking out files:  36% (3170/8598)   Checking out files:  37% (3182/8598)   Checking out files:  37% (3190/8598)   Checking out files:  37% (3256/8598)   Checking out files:  38% (3268/8598)   Checking out files:  39% (3354/8598)   Checking out files:  40% (3440/8598)   Checking out files:  41% (3526/8598)   Checking out files:  41% (3554/8598)   Checking out files:  41% (3577/8598)   Checking out files:  42% (3612/8598)   Checking out files:  42% (3613/8598)   Checking out files:  42% (3634/8598)   Checking out files:  42% (3658/8598)   Checking out files:  43% (3698/8598)   Checking out files:  43% (3755/8598)   Checking out files:  44% (3784/8598)   Checking out files:  44% (3797/8598)   Checking out files:  44% (3859/8598)   Checking out files:  45% (3870/8598)   Checking out files:  46% (3956/8598)   Checking out files:  47% (4042/8598)   Checking out files:  48% (4128/8598)   Checking out files:  48% (4144/8598)   Checking out files:  49% (4214/8598)   Checking out files:  50% (4299/8598)   Checking out files:  51% (4385/8598)   Checking out files:  52% (4471/8598)   Checking out files:  52% (4474/8598)   Checking out files:  52% (4489/8598)   Checking out files:  52% (4515/8598)   Checking out files:  52% (4538/8598)   Checking out files:  53% (4557/8598)   Checking out files:  53% (4579/8598)   Checking out files:  54% (4643/8598)   Checking out files:  54% (4663/8598)   Checking out files:  54% (4710/8598)   Checking out files:  55% (4729/8598)   Checking out files:  55% (4734/8598)   Checking out files:  55% (4787/8598)   Checking out files:  56% (4815/8598)   Checking out files:  57% (4901/8598)   Checking out files:  58% (4987/8598)   Checking out files:  59% (5073/8598)   Checking out files:  60% (5159/8598)   Checking out files:  61% (5245/8598)   Checking out files:  62% (5331/8598)   Checking out files:  63% (5417/8598)   Checking out files:  63% (5418/8598)   Checking out files:  63% (5478/8598)   Checking out files:  63% (5487/8598)   Checking out files:  63% (5491/8598)   Checking out files:  63% (5495/8598)   Checking out files:  63% (5498/8598)   Checking out files:  63% (5501/8598)   Checking out files:  64% (5503/8598)   Checking out files:  64% (5553/8598)   Checking out files:  65% (5589/8598)   Checking out files:  65% (5629/8598)   Checking out files:  66% (5675/8598)   Checking out files:  66% (5682/8598)   Checking out files:  67% (5761/8598)   Checking out files:  67% (5816/8598)   Checking out files:  68% (5847/8598)   Checking out files:  69% (5933/8598)   Checking out files:  70% (6019/8598)   Checking out files:  71% (6105/8598)   Checking out files:  72% (6191/8598)   Checking out files:  73% (6277/8598)   Checking out files:  74% (6363/8598)   Checking out files:  75% (6449/8598)   Checking out files:  75% (6503/8598)   Checking out files:  76% (6535/8598)   Checking out files:  77% (6621/8598)   Checking out files:  77% (6630/8598)   Checking out files:  78% (6707/8598)   Checking out files:  79% (6793/8598)   Checking out files:  80% (6879/8598)   Checking out files:  81% (6965/8598)   Checking out files:  82% (7051/8598)   Checking out files:  83% (7137/8598)   Checking out files:  84% (7223/8598)   Checking out files:  85% (7309/8598)   Checking out files:  86% (7395/8598)   Checking out files:  87% (7481/8598)   Checking out files:  88% (7567/8598)   Checking out files:  89% (7653/8598)   Checking out files:  90% (7739/8598)   Checking out files:  91% (7825/8598)   Checking out files:  92% (7911/8598)   Checking out files:  93% (7997/8598)   Checking out files:  94% (8083/8598)   Checking out files:  95% (8169/8598)   Checking out files:  96% (8255/8598)   Checking out files:  97% (8341/8598)   Checking out files:  98% (8427/8598)   Checking out files:  99% (8513/8598)   Checking out files:  99% (8535/8598)   Checking out files: 100% (8598/8598)   Checking out files: 100% (8598/8598), done.
+Cloning into '/root/repos/repos14/transdroid'...
+Cloning into '/root/repos/repos14/jgit'...
+Cloning into '/root/repos/repos14/logging-log4j2'...
+Checking out files:  98% (3300/3360)   Checking out files:  99% (3327/3360)   Checking out files: 100% (3360/3360)   Checking out files: 100% (3360/3360), done.
+Cloning into '/root/repos/repos14/spring-kafka'...
+Cloning into '/root/repos/repos14/cloudstack'...
+Checking out files:  35% (2767/7800)   Checking out files:  36% (2808/7800)   Checking out files:  37% (2886/7800)   Checking out files:  38% (2964/7800)   Checking out files:  39% (3042/7800)   Checking out files:  40% (3120/7800)   Checking out files:  41% (3198/7800)   Checking out files:  42% (3276/7800)   Checking out files:  43% (3354/7800)   Checking out files:  44% (3432/7800)   Checking out files:  45% (3510/7800)   Checking out files:  46% (3588/7800)   Checking out files:  47% (3666/7800)   Checking out files:  48% (3744/7800)   Checking out files:  49% (3822/7800)   Checking out files:  50% (3900/7800)   Checking out files:  51% (3978/7800)   Checking out files:  52% (4056/7800)   Checking out files:  53% (4134/7800)   Checking out files:  54% (4212/7800)   Checking out files:  55% (4290/7800)   Checking out files:  56% (4368/7800)   Checking out files:  57% (4446/7800)   Checking out files:  58% (4524/7800)   Checking out files:  59% (4602/7800)   Checking out files:  60% (4680/7800)   Checking out files:  61% (4758/7800)   Checking out files:  62% (4836/7800)   Checking out files:  63% (4914/7800)   Checking out files:  64% (4992/7800)   Checking out files:  65% (5070/7800)   Checking out files:  66% (5148/7800)   Checking out files:  67% (5226/7800)   Checking out files:  68% (5304/7800)   Checking out files:  69% (5382/7800)   Checking out files:  70% (5460/7800)   Checking out files:  71% (5538/7800)   Checking out files:  72% (5616/7800)   Checking out files:  72% (5688/7800)   Checking out files:  73% (5694/7800)   Checking out files:  74% (5772/7800)   Checking out files:  75% (5850/7800)   Checking out files:  76% (5928/7800)   Checking out files:  77% (6006/7800)   Checking out files:  78% (6084/7800)   Checking out files:  79% (6162/7800)   Checking out files:  80% (6240/7800)   Checking out files:  81% (6318/7800)   Checking out files:  82% (6396/7800)   Checking out files:  83% (6474/7800)   Checking out files:  84% (6552/7800)   Checking out files:  85% (6630/7800)   Checking out files:  86% (6708/7800)   Checking out files:  87% (6786/7800)   Checking out files:  88% (6864/7800)   Checking out files:  89% (6942/7800)   Checking out files:  90% (7020/7800)   Checking out files:  91% (7098/7800)   Checking out files:  92% (7176/7800)   Checking out files:  93% (7254/7800)   Checking out files:  94% (7332/7800)   Checking out files:  94% (7333/7800)   Checking out files:  95% (7410/7800)   Checking out files:  96% (7488/7800)   Checking out files:  97% (7566/7800)   Checking out files:  98% (7644/7800)   Checking out files:  99% (7722/7800)   Checking out files: 100% (7800/7800)   Checking out files: 100% (7800/7800), done.
+Cloning into '/root/repos/repos14/SchemaCrawler'...
+Cloning into '/root/repos/repos14/infinispan'...
+Checking out files:  38% (3519/9052)   Checking out files:  39% (3531/9052)   Checking out files:  40% (3621/9052)   Checking out files:  41% (3712/9052)   Checking out files:  42% (3802/9052)   Checking out files:  43% (3893/9052)   Checking out files:  44% (3983/9052)   Checking out files:  45% (4074/9052)   Checking out files:  46% (4164/9052)   Checking out files:  47% (4255/9052)   Checking out files:  48% (4345/9052)   Checking out files:  49% (4436/9052)   Checking out files:  50% (4526/9052)   Checking out files:  51% (4617/9052)   Checking out files:  52% (4708/9052)   Checking out files:  53% (4798/9052)   Checking out files:  54% (4889/9052)   Checking out files:  55% (4979/9052)   Checking out files:  56% (5070/9052)   Checking out files:  57% (5160/9052)   Checking out files:  58% (5251/9052)   Checking out files:  59% (5341/9052)   Checking out files:  60% (5432/9052)   Checking out files:  61% (5522/9052)   Checking out files:  62% (5613/9052)   Checking out files:  63% (5703/9052)   Checking out files:  64% (5794/9052)   Checking out files:  65% (5884/9052)   Checking out files:  66% (5975/9052)   Checking out files:  67% (6065/9052)   Checking out files:  68% (6156/9052)   Checking out files:  69% (6246/9052)   Checking out files:  70% (6337/9052)   Checking out files:  71% (6427/9052)   Checking out files:  72% (6518/9052)   Checking out files:  72% (6538/9052)   Checking out files:  73% (6608/9052)   Checking out files:  74% (6699/9052)   Checking out files:  75% (6789/9052)   Checking out files:  76% (6880/9052)   Checking out files:  77% (6971/9052)   Checking out files:  78% (7061/9052)   Checking out files:  79% (7152/9052)   Checking out files:  80% (7242/9052)   Checking out files:  81% (7333/9052)   Checking out files:  82% (7423/9052)   Checking out files:  83% (7514/9052)   Checking out files:  84% (7604/9052)   Checking out files:  85% (7695/9052)   Checking out files:  86% (7785/9052)   Checking out files:  87% (7876/9052)   Checking out files:  88% (7966/9052)   Checking out files:  89% (8057/9052)   Checking out files:  90% (8147/9052)   Checking out files:  91% (8238/9052)   Checking out files:  92% (8328/9052)   Checking out files:  93% (8419/9052)   Checking out files:  94% (8509/9052)   Checking out files:  95% (8600/9052)   Checking out files:  96% (8690/9052)   Checking out files:  96% (8729/9052)   Checking out files:  97% (8781/9052)   Checking out files:  98% (8871/9052)   Checking out files:  99% (8962/9052)   Checking out files: 100% (9052/9052)   Checking out files: 100% (9052/9052), done.
+Cloning into '/root/repos/repos14/rtree'...
+Cloning into '/root/repos/repos14/jackson-annotations'...
+Cloning into '/root/repos/repos14/couchdb-lucene'...
+Cloning into '/root/repos/repos14/open-event-android'...
+Cloning into '/root/repos/repos14/mule'...
+Cloning into '/root/repos/repos14/JGroups'...
+Cloning into '/root/repos/repos14/dynmap'...
+Cloning into '/root/repos/repos14/AcDisplay'...
+Cloning into '/root/repos/repos14/aliyun-openapi-java-sdk'...
+Checking out files:  21% (5233/24297)   Checking out files:  22% (5346/24297)   Checking out files:  23% (5589/24297)   Checking out files:  24% (5832/24297)   Checking out files:  25% (6075/24297)   Checking out files:  26% (6318/24297)   Checking out files:  27% (6561/24297)   Checking out files:  28% (6804/24297)   Checking out files:  29% (7047/24297)   Checking out files:  30% (7290/24297)   Checking out files:  31% (7533/24297)   Checking out files:  32% (7776/24297)   Checking out files:  33% (8019/24297)   Checking out files:  34% (8261/24297)   Checking out files:  35% (8504/24297)   Checking out files:  36% (8747/24297)   Checking out files:  37% (8990/24297)   Checking out files:  38% (9233/24297)   Checking out files:  39% (9476/24297)   Checking out files:  40% (9719/24297)   Checking out files:  41% (9962/24297)   Checking out files:  41% (10096/24297)   Checking out files:  42% (10205/24297)   Checking out files:  43% (10448/24297)   Checking out files:  44% (10691/24297)   Checking out files:  45% (10934/24297)   Checking out files:  46% (11177/24297)   Checking out files:  47% (11420/24297)   Checking out files:  48% (11663/24297)   Checking out files:  49% (11906/24297)   Checking out files:  50% (12149/24297)   Checking out files:  51% (12392/24297)   Checking out files:  52% (12635/24297)   Checking out files:  53% (12878/24297)   Checking out files:  54% (13121/24297)   Checking out files:  55% (13364/24297)   Checking out files:  56% (13607/24297)   Checking out files:  57% (13850/24297)   Checking out files:  58% (14093/24297)   Checking out files:  59% (14336/24297)   Checking out files:  60% (14579/24297)   Checking out files:  61% (14822/24297)   Checking out files:  62% (15065/24297)   Checking out files:  62% (15296/24297)   Checking out files:  63% (15308/24297)   Checking out files:  64% (15551/24297)   Checking out files:  65% (15794/24297)   Checking out files:  66% (16037/24297)   Checking out files:  67% (16279/24297)   Checking out files:  68% (16522/24297)   Checking out files:  69% (16765/24297)   Checking out files:  70% (17008/24297)   Checking out files:  71% (17251/24297)   Checking out files:  72% (17494/24297)   Checking out files:  73% (17737/24297)   Checking out files:  74% (17980/24297)   Checking out files:  75% (18223/24297)   Checking out files:  76% (18466/24297)   Checking out files:  77% (18709/24297)   Checking out files:  78% (18952/24297)   Checking out files:  79% (19195/24297)   Checking out files:  80% (19438/24297)   Checking out files:  81% (19681/24297)   Checking out files:  82% (19924/24297)   Checking out files:  82% (19984/24297)   Checking out files:  83% (20167/24297)   Checking out files:  84% (20410/24297)   Checking out files:  85% (20653/24297)   Checking out files:  86% (20896/24297)   Checking out files:  87% (21139/24297)   Checking out files:  88% (21382/24297)   Checking out files:  89% (21625/24297)   Checking out files:  90% (21868/24297)   Checking out files:  91% (22111/24297)   Checking out files:  92% (22354/24297)   Checking out files:  93% (22597/24297)   Checking out files:  94% (22840/24297)   Checking out files:  95% (23083/24297)   Checking out files:  96% (23326/24297)   Checking out files:  97% (23569/24297)   Checking out files:  98% (23812/24297)   Checking out files:  99% (24055/24297)   Checking out files: 100% (24297/24297)   Checking out files: 100% (24297/24297), done.
+Cloning into '/root/repos/repos14/hackerskeyboard'...
+Cloning into '/root/repos/repos14/PretendYoureXyzzy'...
+Cloning into '/root/repos/repos14/BungeeCord'...
+Cloning into '/root/repos/repos14/flow-platform'...
+Cloning into '/root/repos/repos14/sbt-android'...
+Cloning into '/root/repos/repos14/reactor-netty'...
+Cloning into '/root/repos/repos14/pdfsam'...
+Cloning into '/root/repos/repos14/easy-random'...
+Cloning into '/root/repos/repos14/jbox2d'...
+Cloning into '/root/repos/repos14/zotfile'...
+Cloning into '/root/repos/repos14/governator'...
+Cloning into '/root/repos/repos14/overlap2d'...
+Cloning into '/root/repos/repos14/accumulo'...
+Checking out files:  92% (2058/2220)   Checking out files:  93% (2065/2220)   Checking out files:  94% (2087/2220)   Checking out files:  95% (2109/2220)   Checking out files:  96% (2132/2220)   Checking out files:  97% (2154/2220)   Checking out files:  98% (2176/2220)   Checking out files:  99% (2198/2220)   Checking out files: 100% (2220/2220)   Checking out files: 100% (2220/2220), done.
+Cloning into '/root/repos/repos14/rakam'...
+Cloning into '/root/repos/repos14/spotless'...
+Cloning into '/root/repos/repos14/PixelFlow'...
+Cloning into '/root/repos/repos14/Nukkit'...
+Cloning into '/root/repos/repos14/suro'...
+Cloning into '/root/repos/repos14/weblaf'...
+Cloning into '/root/repos/repos14/Tusky'...
+Cloning into '/root/repos/repos14/mapsforge'...
+Cloning into '/root/repos/repos14/influxdb-java'...
+Cloning into '/root/repos/repos14/pebble'...
+Cloning into '/root/repos/repos14/FreeBuilder'...
+1 https://github.com/HubSpot/Singularity  
+git clone https://github.com/HubSpot/Singularity  
+2 https://github.com/rabbitmq/rabbitmq-java-client  
+git clone https://github.com/rabbitmq/rabbitmq-java-client  
+3 https://github.com/toolbox4minecraft/amidst  
+git clone https://github.com/toolbox4minecraft/amidst  
+4 https://github.com/davidmoten/rxjava-jdbc  
+git clone https://github.com/davidmoten/rxjava-jdbc  
+5 https://github.com/gaul/s3proxy  
+git clone https://github.com/gaul/s3proxy  
+6 https://github.com/tonyofrancis/Fetch  
+git clone https://github.com/tonyofrancis/Fetch  
+7 https://github.com/kwhat/jnativehook  
+git clone https://github.com/kwhat/jnativehook  
+8 https://github.com/pravega/pravega  
+git clone https://github.com/pravega/pravega  
+9 https://github.com/sleuthkit/autopsy  
+git clone https://github.com/sleuthkit/autopsy  
+10 https://github.com/erickok/transdroid  
+git clone https://github.com/erickok/transdroid  
+11 https://github.com/eclipse/jgit  
+git clone https://github.com/eclipse/jgit  
+12 https://github.com/apache/logging-log4j2  
+git clone https://github.com/apache/logging-log4j2  
+13 https://github.com/spring-projects/spring-kafka  
+git clone https://github.com/spring-projects/spring-kafka  
+14 https://github.com/apache/cloudstack  
+git clone https://github.com/apache/cloudstack  
+15 https://github.com/schemacrawler/SchemaCrawler  
+git clone https://github.com/schemacrawler/SchemaCrawler  
+16 https://github.com/infinispan/infinispan  
+git clone https://github.com/infinispan/infinispan  
+17 https://github.com/davidmoten/rtree  
+git clone https://github.com/davidmoten/rtree  
+18 https://github.com/FasterXML/jackson-annotations  
+git clone https://github.com/FasterXML/jackson-annotations  
+19 https://github.com/rnewson/couchdb-lucene  
+git clone https://github.com/rnewson/couchdb-lucene  
+20 https://github.com/OpnTec/open-event-android  
+git clone https://github.com/OpnTec/open-event-android  
+21 https://github.com/mulesoft/mule  
+git clone https://github.com/mulesoft/mule  
+22 https://github.com/belaban/JGroups  
+git clone https://github.com/belaban/JGroups  
+23 https://github.com/webbukkit/dynmap  
+git clone https://github.com/webbukkit/dynmap  
+24 https://github.com/AChep/AcDisplay  
+git clone https://github.com/AChep/AcDisplay  
+25 https://github.com/aliyun/aliyun-openapi-java-sdk  
+git clone https://github.com/aliyun/aliyun-openapi-java-sdk  
+26 https://github.com/klausw/hackerskeyboard  
+git clone https://github.com/klausw/hackerskeyboard  
+27 https://github.com/ajanata/PretendYoureXyzzy  
+git clone https://github.com/ajanata/PretendYoureXyzzy  
+28 https://github.com/SpigotMC/BungeeCord  
+git clone https://github.com/SpigotMC/BungeeCord  
+29 https://github.com/FlowCI/flow-platform  
+git clone https://github.com/FlowCI/flow-platform  
+30 https://github.com/scala-android/sbt-android  
+git clone https://github.com/scala-android/sbt-android  
+31 https://github.com/reactor/reactor-netty  
+git clone https://github.com/reactor/reactor-netty  
+32 https://github.com/torakiki/pdfsam  
+git clone https://github.com/torakiki/pdfsam  
+33 https://github.com/j-easy/easy-random  
+git clone https://github.com/j-easy/easy-random  
+34 https://github.com/jbox2d/jbox2d  
+git clone https://github.com/jbox2d/jbox2d  
+35 https://github.com/jlegewie/zotfile  
+git clone https://github.com/jlegewie/zotfile  
+36 https://github.com/Netflix/governator  
+git clone https://github.com/Netflix/governator  
+37 https://github.com/UnderwaterApps/overlap2d  
+git clone https://github.com/UnderwaterApps/overlap2d  
+38 https://github.com/apache/accumulo  
+git clone https://github.com/apache/accumulo  
+39 https://github.com/rakam-io/rakam  
+git clone https://github.com/rakam-io/rakam  
+40 https://github.com/diffplug/spotless  
+git clone https://github.com/diffplug/spotless  
+41 https://github.com/diwi/PixelFlow  
+git clone https://github.com/diwi/PixelFlow  
+42 https://github.com/Nukkit/Nukkit  
+git clone https://github.com/Nukkit/Nukkit  
+43 https://github.com/Netflix/suro  
+git clone https://github.com/Netflix/suro  
+44 https://github.com/mgarin/weblaf  
+git clone https://github.com/mgarin/weblaf  
+45 https://github.com/tuskyapp/Tusky  
+git clone https://github.com/tuskyapp/Tusky  
+46 https://github.com/mapsforge/mapsforge  
+git clone https://github.com/mapsforge/mapsforge  
+47 https://github.com/influxdata/influxdb-java  
+git clone https://github.com/influxdata/influxdb-java  
+48 https://github.com/PebbleTemplates/pebble  
+git clone https://github.com/PebbleTemplates/pebble  
+49 https://github.com/inferred/FreeBuilder  
+git clone https://github.com/inferred/FreeBuilder  
+49

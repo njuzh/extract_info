@@ -1,0 +1,150 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos6/mapstruct'...
+Cloning into '/root/repos/repos6/ballerina-lang'...
+Checking out files:  42% (5278/12499)   Checking out files:  43% (5375/12499)   Checking out files:  44% (5500/12499)   Checking out files:  45% (5625/12499)   Checking out files:  46% (5750/12499)   Checking out files:  47% (5875/12499)   Checking out files:  48% (6000/12499)   Checking out files:  49% (6125/12499)   Checking out files:  50% (6250/12499)   Checking out files:  51% (6375/12499)   Checking out files:  52% (6500/12499)   Checking out files:  53% (6625/12499)   Checking out files:  54% (6750/12499)   Checking out files:  55% (6875/12499)   Checking out files:  56% (7000/12499)   Checking out files:  57% (7125/12499)   Checking out files:  58% (7250/12499)   Checking out files:  59% (7375/12499)   Checking out files:  60% (7500/12499)   Checking out files:  61% (7625/12499)   Checking out files:  62% (7750/12499)   Checking out files:  63% (7875/12499)   Checking out files:  64% (8000/12499)   Checking out files:  65% (8125/12499)   Checking out files:  66% (8250/12499)   Checking out files:  67% (8375/12499)   Checking out files:  68% (8500/12499)   Checking out files:  69% (8625/12499)   Checking out files:  70% (8750/12499)   Checking out files:  71% (8875/12499)   Checking out files:  72% (9000/12499)   Checking out files:  73% (9125/12499)   Checking out files:  74% (9250/12499)   Checking out files:  75% (9375/12499)   Checking out files:  76% (9500/12499)   Checking out files:  77% (9625/12499)   Checking out files:  78% (9750/12499)   Checking out files:  79% (9875/12499)   Checking out files:  80% (10000/12499)   Checking out files:  81% (10125/12499)   Checking out files:  82% (10250/12499)   Checking out files:  83% (10375/12499)   Checking out files:  84% (10500/12499)   Checking out files:  85% (10625/12499)   Checking out files:  86% (10750/12499)   Checking out files:  87% (10875/12499)   Checking out files:  88% (11000/12499)   Checking out files:  89% (11125/12499)   Checking out files:  90% (11250/12499)   Checking out files:  91% (11375/12499)   Checking out files:  92% (11500/12499)   Checking out files:  93% (11625/12499)   Checking out files:  94% (11750/12499)   Checking out files:  95% (11875/12499)   Checking out files:  96% (12000/12499)   Checking out files:  96% (12055/12499)   Checking out files:  97% (12125/12499)   Checking out files:  98% (12250/12499)   Checking out files:  99% (12375/12499)   Checking out files: 100% (12499/12499)   Checking out files: 100% (12499/12499), done.
+Cloning into '/root/repos/repos6/truth'...
+Cloning into '/root/repos/repos6/JSqlParser'...
+Cloning into '/root/repos/repos6/Chronicle-Queue'...
+Cloning into '/root/repos/repos6/ratpack'...
+Cloning into '/root/repos/repos6/bitcoin-wallet'...
+Cloning into '/root/repos/repos6/spring'...
+Cloning into '/root/repos/repos6/commons'...
+Cloning into '/root/repos/repos6/gremlin'...
+Cloning into '/root/repos/repos6/liquibase'...
+Cloning into '/root/repos/repos6/android-database-sqlcipher'...
+Cloning into '/root/repos/repos6/zalenium'...
+Cloning into '/root/repos/repos6/swagger2markup'...
+Cloning into '/root/repos/repos6/gs-collections'...
+Cloning into '/root/repos/repos6/DependencyCheck'...
+Cloning into '/root/repos/repos6/jitwatch'...
+Cloning into '/root/repos/repos6/maven'...
+Cloning into '/root/repos/repos6/flume'...
+Cloning into '/root/repos/repos6/micrometer'...
+Cloning into '/root/repos/repos6/jacoco'...
+Cloning into '/root/repos/repos6/stampede'...
+Cloning into '/root/repos/repos6/jeromq'...
+Cloning into '/root/repos/repos6/Jest'...
+Cloning into '/root/repos/repos6/AxonFramework'...
+Cloning into '/root/repos/repos6/apollo-android'...
+Cloning into '/root/repos/repos6/Chronicle-Map'...
+Cloning into '/root/repos/repos6/bt'...
+Cloning into '/root/repos/repos6/mahout'...
+Cloning into '/root/repos/repos6/jetcache'...
+Cloning into '/root/repos/repos6/awaitility'...
+Cloning into '/root/repos/repos6/commons-lang'...
+Cloning into '/root/repos/repos6/osmdroid'...
+Cloning into '/root/repos/repos6/YalpStore'...
+Cloning into '/root/repos/repos6/spring-cloud-gateway'...
+Cloning into '/root/repos/repos6/react-native-fcm'...
+Cloning into '/root/repos/repos6/unirest-java'...
+Cloning into '/root/repos/repos6/speedment'...
+Cloning into '/root/repos/repos6/ExoMedia'...
+Cloning into '/root/repos/repos6/atomix'...
+Cloning into '/root/repos/repos6/commafeed'...
+Cloning into '/root/repos/repos6/jpexs-decompiler'...
+Cloning into '/root/repos/repos6/xabber-android'...
+Cloning into '/root/repos/repos6/grakn'...
+Cloning into '/root/repos/repos6/gnirehtet'...
+Cloning into '/root/repos/repos6/logback'...
+Cloning into '/root/repos/repos6/dl4j-examples'...
+Cloning into '/root/repos/repos6/thymeleaf'...
+Cloning into '/root/repos/repos6/oryx'...
+1 https://github.com/mapstruct/mapstruct  
+git clone https://github.com/mapstruct/mapstruct  
+2 https://github.com/ballerina-platform/ballerina-lang  
+git clone https://github.com/ballerina-platform/ballerina-lang  
+3 https://github.com/google/truth  
+git clone https://github.com/google/truth  
+4 https://github.com/JSQLParser/JSqlParser  
+git clone https://github.com/JSQLParser/JSqlParser  
+5 https://github.com/OpenHFT/Chronicle-Queue  
+git clone https://github.com/OpenHFT/Chronicle-Queue  
+6 https://github.com/ratpack/ratpack  
+git clone https://github.com/ratpack/ratpack  
+7 https://github.com/bitcoin-wallet/bitcoin-wallet  
+git clone https://github.com/bitcoin-wallet/bitcoin-wallet  
+8 https://github.com/mybatis/spring  
+git clone https://github.com/mybatis/spring  
+9 https://github.com/twitter/commons  
+git clone https://github.com/twitter/commons  
+10 https://github.com/tinkerpop/gremlin  
+git clone https://github.com/tinkerpop/gremlin  
+11 https://github.com/liquibase/liquibase  
+git clone https://github.com/liquibase/liquibase  
+12 https://github.com/sqlcipher/android-database-sqlcipher  
+git clone https://github.com/sqlcipher/android-database-sqlcipher  
+13 https://github.com/zalando/zalenium  
+git clone https://github.com/zalando/zalenium  
+14 https://github.com/Swagger2Markup/swagger2markup  
+git clone https://github.com/Swagger2Markup/swagger2markup  
+15 https://github.com/goldmansachs/gs-collections  
+git clone https://github.com/goldmansachs/gs-collections  
+16 https://github.com/jeremylong/DependencyCheck  
+git clone https://github.com/jeremylong/DependencyCheck  
+17 https://github.com/AdoptOpenJDK/jitwatch  
+git clone https://github.com/AdoptOpenJDK/jitwatch  
+18 https://github.com/apache/maven  
+git clone https://github.com/apache/maven  
+19 https://github.com/apache/flume  
+git clone https://github.com/apache/flume  
+20 https://github.com/micrometer-metrics/micrometer  
+git clone https://github.com/micrometer-metrics/micrometer  
+21 https://github.com/jacoco/jacoco  
+git clone https://github.com/jacoco/jacoco  
+22 https://github.com/torodb/stampede  
+git clone https://github.com/torodb/stampede  
+23 https://github.com/zeromq/jeromq  
+git clone https://github.com/zeromq/jeromq  
+24 https://github.com/searchbox-io/Jest  
+git clone https://github.com/searchbox-io/Jest  
+25 https://github.com/AxonFramework/AxonFramework  
+git clone https://github.com/AxonFramework/AxonFramework  
+26 https://github.com/apollographql/apollo-android  
+git clone https://github.com/apollographql/apollo-android  
+27 https://github.com/OpenHFT/Chronicle-Map  
+git clone https://github.com/OpenHFT/Chronicle-Map  
+28 https://github.com/atomashpolskiy/bt  
+git clone https://github.com/atomashpolskiy/bt  
+29 https://github.com/apache/mahout  
+git clone https://github.com/apache/mahout  
+30 https://github.com/alibaba/jetcache  
+git clone https://github.com/alibaba/jetcache  
+31 https://github.com/awaitility/awaitility  
+git clone https://github.com/awaitility/awaitility  
+32 https://github.com/apache/commons-lang  
+git clone https://github.com/apache/commons-lang  
+33 https://github.com/osmdroid/osmdroid  
+git clone https://github.com/osmdroid/osmdroid  
+34 https://github.com/yeriomin/YalpStore  
+git clone https://github.com/yeriomin/YalpStore  
+35 https://github.com/spring-cloud/spring-cloud-gateway  
+git clone https://github.com/spring-cloud/spring-cloud-gateway  
+36 https://github.com/evollu/react-native-fcm  
+git clone https://github.com/evollu/react-native-fcm  
+37 https://github.com/Kong/unirest-java  
+git clone https://github.com/Kong/unirest-java  
+38 https://github.com/speedment/speedment  
+git clone https://github.com/speedment/speedment  
+39 https://github.com/brianwernick/ExoMedia  
+git clone https://github.com/brianwernick/ExoMedia  
+40 https://github.com/atomix/atomix  
+git clone https://github.com/atomix/atomix  
+41 https://github.com/Athou/commafeed  
+git clone https://github.com/Athou/commafeed  
+42 https://github.com/jindrapetrik/jpexs-decompiler  
+git clone https://github.com/jindrapetrik/jpexs-decompiler  
+43 https://github.com/redsolution/xabber-android  
+git clone https://github.com/redsolution/xabber-android  
+44 https://github.com/graknlabs/grakn  
+git clone https://github.com/graknlabs/grakn  
+45 https://github.com/Genymobile/gnirehtet  
+git clone https://github.com/Genymobile/gnirehtet  
+46 https://github.com/qos-ch/logback  
+git clone https://github.com/qos-ch/logback  
+47 https://github.com/deeplearning4j/dl4j-examples  
+git clone https://github.com/deeplearning4j/dl4j-examples  
+48 https://github.com/thymeleaf/thymeleaf  
+git clone https://github.com/thymeleaf/thymeleaf  
+49 https://github.com/OryxProject/oryx  
+git clone https://github.com/OryxProject/oryx  
+49

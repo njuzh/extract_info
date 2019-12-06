@@ -1,0 +1,671 @@
+nohup: ignoring input
+>>>>extracting method info of imagej...
+>>>>writing to csv files...
+>>>>done.
+excute time:1104ms
+>>>>extracting method info of cattle...
+>>>>writing to csv files...
+>>>>done.
+excute time:13655ms
+>>>>Project No: 1
+>>>>extracting infomation for  imagej
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for imagej-2.0.0-rc-72-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 2
+>>>>extracting infomation for  cattle
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 161 jars
+>>>>extracting callgraph info for cattle-settings-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-sample-setup-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-activity-log-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-simulator-storage-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-simulator-agent-connection-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-lock-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-eventing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-host-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-vm-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-extension-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-machine-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-storage-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-compute-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-register-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-system-stack-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-host-stats-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-agent-instance-impl-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-metrics-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-token-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-archaius-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-encryption-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-spring-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-json-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-db-loader-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-schema-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-spring-module-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-java-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-object-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-pub-sub-jetty-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-deferred-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-lock-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-managed-context-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-async-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-launcher-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-utils-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-extension-spring-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-pub-sub-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-auditing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-eventing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-pool-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-jmx-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-extension-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-engine-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-system-task-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-logback-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-events-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-api-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-auth-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-logic-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-bootstrap-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-metadata-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-model-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-ssh-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-external-handler-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-healthcheck-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-labels-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-ha-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-archaius-management-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-engine-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-allocator-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-storage-service-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-instance-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-events-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-task-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-service-discovery-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-service-discovery-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-app-config-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-dev-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-dev-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-pub-sub-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-api-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-engine-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-bootstrap-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-extension-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-spring-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-allocator-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-token-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-spring-module-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-host-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-storage-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-vm-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-lock-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-db-loader-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-system-task-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-compute-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-external-handler-0.5.0-SNAPSHOT.jar>>>>extracting method info of high-performance-java-persistence...
+>>>>writing to csv files...
+>>>>done.
+excute time:2317ms
+>>>>extracting method info of jzmq...
+>>>>writing to csv files...
+>>>>done.
+excute time:2785ms
+>>>>extracting method info of storm-crawler...
+>>>>writing to csv files...
+>>>>done.
+excute time:5265ms
+>>>>extracting method info of cassandra-lucene-index...
+>>>>writing to csv files...
+>>>>done.
+excute time:5017ms
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at gr.gousiosg.javacg.stat.DynamicCallManager.retrieveCalls(DynamicCallManager.java:84)
+	at gr.gousiosg.javacg.stat.ClassVisitor.visitJavaClass(ClassVisitor.java:65)
+	at gr.gousiosg.javacg.stat.ClassVisitor.start(ClassVisitor.java:92)
+	at gr.gousiosg.javacg.stat.JCallGraph.lambda$main$1(JCallGraph.java:78)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:271)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of jena...
+>>>>writing to csv files...
+>>>>done.
+excute time:44768ms
+
+>>>>extracting callgraph info for cattle-framework-object-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-sample-setup-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-encryption-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-pub-sub-jetty-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-service-discovery-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-eventing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-agent-instance-impl-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-hazelcast-lock-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-java-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-storage-service-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-jmx-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-logback-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-simulator-storage-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-managed-context-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-host-stats-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-activity-log-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-simulator-agent-connection-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-events-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-service-discovery-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-machine-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-engine-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-eventing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-auditing-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-ssh-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-ha-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-utils-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-system-stack-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-extension-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-settings-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-logic-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-server-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-healthcheck-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-auth-logic-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-docker-api-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-model-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-labels-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-metadata-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-json-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-meta-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-extension-spring-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-register-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-agent-instance-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-pool-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-schema-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-archaius-management-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-metrics-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-async-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-config-item-common-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-app-config-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-archaius-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-iaas-task-jooq-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-events-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-framework-deferred-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph info for cattle-meta-0.5.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 3
+>>>>extracting infomation for  high-performance-java-persistence
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for high-performance-java-persistence-core-1.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 4
+>>>>extracting infomation for  jzmq
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for jzmq-jni-3.1.1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 5
+>>>>extracting infomation for  storm-crawler
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 9 jars
+>>>>extracting callgraph info for storm-crawler-langid-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-solr-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-sql-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-tika-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-elasticsearch-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-aws-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-warc-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-archetype-1.16-SNAPSHOT.jar
+>>>>extracting callgraph info for storm-crawler-core-1.16-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 6
+>>>>extracting infomation for  cassandra-lucene-index
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 2 jars
+>>>>extracting callgraph info for cassandra-lucene-index-builder-3.0.14.1-RC1-SNAPSHOT.jar
+>>>>extracting callgraph info for cassandra-lucene-index-plugin-3.0.14.1-RC1-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 7
+>>>>extracting infomation for  jena
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 58 jars
+>>>>extracting callgraph info for jena-jdbc-driver-tdb-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-jdbc-core-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-jdbc-driver-mem-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-jdbc-driver-remote-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-jdbc-driver-bundle-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-trans-data-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-transaction-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-storage-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-base-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-index-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-tdb2-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-elephas-stats-3.14.0-SNAPSHOT-hadoop-job.jar
+>>>>extracting callgraph info for jena-elephas-stats-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-elephas-io-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-elephas-mapreduce-3.14.0-SNAPSHOT.jarException in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at gr.gousiosg.javacg.stat.DynamicCallManager.retrieveCalls(DynamicCallManager.java:84)
+	at gr.gousiosg.javacg.stat.ClassVisitor.visitJavaClass(ClassVisitor.java:65)
+	at gr.gousiosg.javacg.stat.ClassVisitor.start(ClassVisitor.java:92)
+	at gr.gousiosg.javacg.stat.JCallGraph.lambda$main$1(JCallGraph.java:78)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:271)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:563)
+	at gr.gousiosg.javacg.stat.JCallGraph.main(JCallGraph.java:81)
+>>>>extracting method info of takes...
+>>>>writing to csv files...
+>>>>done.
+excute time:5894ms
+>>>>extracting method info of rome...
+>>>>writing to csv files...
+>>>>done.
+excute time:8796ms
+>>>>extracting method info of spring-cloud-dataflow...
+>>>>writing to csv files...
+>>>>done.
+excute time:9145ms
+>>>>extracting method info of esper...
+>>>>writing to csv files...
+>>>>done.
+excute time:47321ms
+>>>>extracting method info of structr...
+>>>>writing to csv files...
+>>>>done.
+excute time:14777ms
+
+>>>>extracting callgraph info for jena-elephas-common-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-osgi-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-osgi-features-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-arq-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-tdb-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-rdfconnection-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-core-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-text-es-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-shacl-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-permissions-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-geosparql-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-base-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-iri-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-text-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-base-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-storage-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-core-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-iri-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-shacl-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-tdb2-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-rdfconnection-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-arq-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-base-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-shaded-guava-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-text-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-index-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-tdb-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-core-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-transaction-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-dboe-trans-data-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-webapp-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-cmds-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-geosparql-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-webapp-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-access-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-fulljar-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-server-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-main-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-fuseki-core-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-sdb-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-querybuilder-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-cmds-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph info for jena-shaded-guava-3.14.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 8
+>>>>extracting infomation for  takes
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for takes-2.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 9
+>>>>extracting infomation for  rome
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 20 jars
+>>>>extracting callgraph info for rome-certiorem-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome.jar
+>>>>extracting callgraph info for rome-modules.jar
+>>>>extracting callgraph info for rome-utils.jar
+>>>>extracting callgraph info for rome-fetcher.jar
+>>>>extracting callgraph info for rome-fetcher-1.0.jar
+>>>>extracting callgraph info for rome-fetcher-1.0RC2.jar
+>>>>extracting callgraph info for rome-modules-1.0.jar
+>>>>extracting callgraph info for rome-1.0RC2.jar
+>>>>extracting callgraph info for rome-1.0.jar
+>>>>extracting callgraph info for rome-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-utils-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-certiorem-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-utils-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-fetcher-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-modules-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-opml-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-propono-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph info for rome-fetcher-1.12.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 10
+>>>>extracting infomation for  spring-cloud-dataflow
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 17 jars
+>>>>extracting callgraph info for spring-cloud-dataflow-rest-client-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-core-dsl-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-docs-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-shell-core-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-shell-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-platform-cloudfoundry-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-platform-kubernetes-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-scheduler-task-launcher-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-core-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-registry-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-classic-docs-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-server-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-completion-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-autoconfigure-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-server-core-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-audit-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph info for spring-cloud-dataflow-configuration-metadata-2.3.0.BUILD-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 11
+>>>>extracting infomation for  esper
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 19 jars
+>>>>extracting callgraph info for esper-runtime-8.4.0.jar
+>>>>extracting callgraph info for esper-common-avro-8.4.0.jar
+>>>>extracting callgraph info for esperio-http-8.4.0.jar
+>>>>extracting callgraph info for esperio-csv-8.4.0.jar
+>>>>extracting callgraph info for esperio-amqp-8.4.0.jar
+>>>>extracting callgraph info for esperio-db-8.4.0.jar
+>>>>extracting callgraph info for esperio-springjms-8.4.0.jar
+>>>>extracting callgraph info for esperio-kafka-8.4.0.jar
+>>>>extracting callgraph info for esperio-socket-8.4.0.jar
+>>>>extracting callgraph info for esper-runtime-8.4.0.jar
+>>>>extracting callgraph info for esper-common-8.4.0.jar
+>>>>extracting callgraph info for esper-compiler-8.4.0.jar
+>>>>extracting callgraph info for esper-runtime-8.4.0.jar
+>>>>extracting callgraph info for esper-common-8.4.0.jar
+>>>>extracting callgraph info for esper-compiler-8.4.0.jar
+>>>>extracting callgraph info for esper-common-8.4.0.jar
+>>>>extracting callgraph info for esper-compiler-8.4.0.jar
+>>>>extracting callgraph info for esper-regression-lib-8.4.0.jar
+>>>>extracting callgraph info for esper-regression-run-8.4.0.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 12
+>>>>extracting infomation for  structr
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of>>>>extracting method info of Duke...
+>>>>writing to csv files...
+>>>>done.
+excute time:3946ms
+>>>>extracting method info of sonar-java...
+>>>>writing to csv files...
+>>>>done.
+excute time:14291ms
+>>>>extracting method info of Jinq...
+>>>>writing to csv files...
+>>>>done.
+excute time:3794ms
+>>>>extracting method info of artemis-odb...
+>>>>writing to csv files...
+>>>>done.
+excute time:6401ms
+>>>>extracting method info of jongo...
+>>>>writing to csv files...
+>>>>done.
+excute time:2354ms
+>>>>extracting method info of togglz...
+>>>>writing to csv files...
+>>>>done.
+excute time:5355ms
+ 33 jars
+>>>>extracting callgraph info for structr-db-driver-api-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-ui-3.4-SNAPSHOT-201912051251.7d0b7.jar
+>>>>extracting callgraph info for structr-csv-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-crawler-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-neo4j-bolt-driver-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-odf-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-java-parser-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-payment-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-xmpp-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-excel-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-knowledge-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-ldap-client-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-text-search-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-db-driver-api-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-core-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-advanced-mail-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-api-builder-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-ui-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-file-access-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-geo-transformations-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-pdf-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-translation-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-media-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-flow-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-data-feeds-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-messaging-engine-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-xml-module-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-rest-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-rest-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-net-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-neo4j-bolt-driver-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-core-3.4-SNAPSHOT.jar
+>>>>extracting callgraph info for structr-3.4-SNAPSHOT-201912051251.7d0b7.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 13
+>>>>extracting infomation for  Duke
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 7 jars
+>>>>extracting callgraph info for duke-mongodb-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-es-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-core-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-json-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-lucene-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-mapdb-1.3-SNAPSHOT.jar
+>>>>extracting callgraph info for duke-server-1.3-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 14
+>>>>extracting infomation for  sonar-java
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for sonar-java-plugin-6.0.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 15
+>>>>extracting infomation for  Jinq
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 5 jars
+>>>>extracting callgraph info for jinq-hibernate-legacy-1.8.30-SNAPSHOT.jar
+>>>>extracting callgraph info for jinq-asm-rebased-1.8.30-SNAPSHOT.jar
+>>>>extracting callgraph info for jinq-jooq-1.8.30-SNAPSHOT.jar
+>>>>extracting callgraph info for jinq-jpa-1.8.30-SNAPSHOT.jar
+>>>>extracting callgraph info for jinq-jpa-scala-1.8.30-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 16
+>>>>extracting infomation for  artemis-odb
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 11 jars
+>>>>extracting callgraph info for artemis-odb-gwt-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-maven-plugin-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-weaver-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-gradle-plugin-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-cli-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-cli-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-serializer-kryo-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-serializer-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-serializer-json-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-serializer-json-libgdx-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph info for artemis-odb-2.4.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 17
+>>>>extracting infomation for  jongo
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for jongo-1.5.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 18
+>>>>extracting infomation for  togglz
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 32 jars
+>>>>extracting callgraph info for togglz-cassandra-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-zookeeper-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-spring-core-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-archaius-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-microprofile-config-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-spring-mobile-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-mongodb-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-jsf-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-shiro-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-amazon-s3-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-console-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-jsp-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-spring-security-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-guice-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-benchmarks-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-benchmarks-uberjar.jar
+>>>>extracting callgraph info for togglz-cloud-datastore-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-slack-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-hazelcast-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-core-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-junit-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-spring-web-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-servlet-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-deltaspike-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-slf4j-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-cdi-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-redis-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-spring-boot-starter-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-legacy-spring-boot-starter-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-junit5-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-dynamodb-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph info for togglz-appengine-2.7.0-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>extracting method info of github-api...
+>>>>writing to csv files...
+>>>>done.
+excute time:5308ms
+>>>>extracting method info of manifold...
+>>>>writing to csv files...
+>>>>done.
+excute time:10737ms
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 19
+>>>>extracting infomation for  github-api
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 1 jars
+>>>>extracting callgraph info for github-api-1.101-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>Project No: 20
+>>>>extracting infomation for  manifold
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>extracting callgraph infomation of 22 jars
+>>>>extracting callgraph info for manifold-all-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-ext-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-strings-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-image-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-properties-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-exceptions-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-yaml-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-preprocessor-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-templates-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-js-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-ext-producer-sample-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-io-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-science-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-darkj-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-xml-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-json-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-text-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-graphql-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-collections-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-csv-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph info for manifold-util-2019.1.29-SNAPSHOT.jar
+>>>>extracting callgraph infomation done.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+===============================
+all projects count: 26
+analyzed projects count: 20
+analyzed jars count: 403
+missed projects: ['java-client-api', 'restheart', 'cyberduck', 'java-cas-client', 'jpmml-evaluator', 'stringtemplate4']
+all time used: 1058.036614894867 s
+===============================
